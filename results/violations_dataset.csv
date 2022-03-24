@@ -1,0 +1,216 @@
+event;preprocessed event;matched_vaa_activity;vaa_type;semantic_similarity;violation_type;violation_frequency;trace_share;activity_position;decision_activity;subsequent_missalignment
+Retrieve Password ;retrieve password;check customer;BVA;0.50367785;skip;0.12576687116564417;0.041;core;False;0
+request account details;request account details;create account;BVA;0.7568207;skip;0.22162162162162163;0.04;start;False;0
+receive notification purchase declined;receive notification purchase declined;receive purchase order;VA;0.76997834;skip;0.10337552742616034;0.045;end;False;0
+authenticate customer;authenticate customer;check customer;BVA;0.6016002;skip;0.24210526315789474;0.045;core;False;0
+confirm order;confirm order;create purchase order;VA;0.70710677;skip;0.038202247191011236;0.034;core;False;0
+Create account;create account;create account;BVA;0.99999994;skip;0.12951807228915663;0.041;core;False;0
+subtract value from voucher allowance;subtract value from voucher allowance;fix the process until next session;NVA;0.42307672;skip;0.3425925925925926;0.036;core;False;0
+Find media file;find media file;check request;BVA;0.57438827;skip;0.05934065934065934;0.051;start;False;0
+redeem gift voucher allowance credit;redeem gift voucher allowance credit;wait for payment;NVA;0.41540682;skip;0.07775377969762419;0.036;core;False;0
+select view in i tunes;select view in tunes;present project;BVA;0.58288205;skip;0.04035874439461883;0.036;core;False;0
+generate invoice;generate invoice;send invoice;VA;0.70710677;skip;0.36283185840707965;0.038;end;False;0
+select buy;select buy;generate pricing options;BVA;0.66488695;skip;0.0968421052631579;0.043;core;False;0
+sign in;sign in;wait for payment;NVA;0.8690136;skip;0.061258278145695365;0.036;core;False;0
+prompt order confirmation;prompt order confirmation;review purchase order;BVA;0.58407956;skip;0.22994652406417113;0.041;core;False;0
+launch or download i tunes app;launch or download tunes app;wait for payment;NVA;0.2517921;skip;0.06578947368421052;0.03;core;False;0
+debit credit card;debit credit card;check payment;BVA;0.7441237;skip;0.3302752293577982;0.036;core;False;0
+preview sample;preview sample;check customer;BVA;0.0;skip;0.0467706013363029;0.041;core;False;0
+notify customer purchase declined;notify customer purchase declined;review sales quote;BVA;0.6531185;skip;0.3684210526315789;0.041;end;False;0
+download media file;download media file;reject application;VA;0.4821126;skip;0.09263157894736843;0.041;end;False;0
+upload media file;upload media file;check request;BVA;0.36365974;skip;0.3739130434782609;0.038;core;False;0
+test resolution;test resolution;issue payment;BVA;0.33061928;skip;0.17892976588628762;0.095;start;False;0
+mail results;mail results;check customer;BVA;0.3704182;skip;0.1606837606837607;0.085;end;False;0
+mark request closed;mark request closed;check request;BVA;0.57735026;skip;0.15448504983388706;0.082;end;False;0
+resolve request;resolve request;check request;BVA;0.70710677;skip;0.11128775834658187;0.068;core;False;0
+register request;register request;receive purchase order;VA;0.69589776;skip;0.13728813559322034;0.074;start;False;0
+send resolution to client;send resolution to client;check request;BVA;0.91209805;skip;0.11410459587955626;0.069;core;False;0
+check request;check request;check request;BVA;0.99999994;skip;0.16830065359477125;0.091;core;False;0
+prioritize request;prioritize request;check request;BVA;0.70710677;skip;0.14597315436241612;0.082;core;False;0
+check current inventory level;check current inventory level;wait for payment;NVA;0.6641437;skip;0.6113744075829384;0.121;start;False;0
+send invoice;send invoice;send invoice;VA;0.99999994;skip;0.11046511627906977;0.105;start;False;0
+receive payment;receive payment;receive payment;VA;1.0;skip;0.10263929618768329;0.098;end;False;0
+pick shipment;pick shipment;pick shipment;BVA;0.99999994;skip;0.10787172011661808;0.1;start;False;0
+send shipment out;send shipment out;send shipment;VA;0.81649655;skip;0.10088148873653281;0.093;core;False;0
+prepare packing slip;prepare packing slip;prepare packing slip;BVA;0.99999994;skip;0.1206896551724138;0.11;start;False;0
+wait for payment;wait for payment;wait for payment;NVA;0.99999994;skip;0.11132623426911907;0.104;core;True;0
+receive invoice;receive invoice;receive invoice;VA;0.99999994;skip;0.352165725047081;0.153;start;False;0
+send eu agriculture legislations;send eu agriculture legislations;send invoice;VA;0.5;skip;0.4100185528756957;0.179;start;False;0
+pay invoice;pay invoice;receive invoice;VA;0.84514284;skip;0.22587968217934165;0.16;end;False;0
+receive reminder;receive reminder;send reminder;NVA;0.7702559;skip;0.3424124513618677;0.149;start;False;0
+check  inventory  level;check inventory level;check inventory;BVA;0.81649655;skip;0.180999180999181;0.192;start;False;0
+review  purchase  order;review purchase order;review purchase order;BVA;0.99999994;add;0.07173174872665534;0.126;end;True;0
+create  purchase  order;create purchase order;create purchase order;VA;0.99999994;skip;0.16862745098039217;0.143;core;False;0
+rework  purchase  order;rework purchase order;rework purchase order;NVA;0.99999994;add;0.07152317880794702;0.091;core;False;0
+check current inventory level;check current inventory level;wait for payment;NVA;0.6641437;skip;0.4428969359331476;0.447;start;False;0
+review and produce  sales  quote;review and produce sales quote;review sales quote;BVA;0.7745967;skip;0.4629080118694362;0.136;start;False;0
+completes  sales  quote;completes sales quote;review sales quote;BVA;0.81649655;skip;0.3960674157303371;0.124;start;False;0
+review  deliver  sales  quote;review deliver sales quote;review sales quote;BVA;0.8660254;skip;0.4704225352112676;0.146;start;False;0
+produces an estimate of the labor and materials costs to complete the job;produces an estimate of the labor and materials costs to complete the job;wait for payment;NVA;0.7009728;skip;0.3494318181818182;0.109;end;False;0
+verify rfq;verify rfq;verify rfq;BVA;0.99999994;skip;0.23388581952117865;0.118;start;False;0
+glossary add  check if in stock;glossary add check if in stock;wait for payment;NVA;0.64230394;skip;0.43725379853685986;0.439;start;False;0
+check invoice for data errors;check invoice for data errors;check request;BVA;0.7444467;skip;0.15614617940199335;0.046;core;True;0
+return invoice to client;return invoice to client;send purchase order;VA;0.68571913;skip;0.15789473684210525;0.047;end;False;0
+sort batch of patch invoices by payment date per vendor;sort batch of patch invoices by payment date per vendor;wait for payment;NVA;0.4856638;skip;0.17434210526315788;0.047;core;False;0
+Invoice Registration Process;invoice registration process;check process;NVA;0.5980997;skip;0.1974921630094044;0.057;core;True;0
+receive batch of invoices;receive batch of invoices;wait for payment;NVA;0.6135282;skip;0.1779935275080906;0.053;start;False;0
+change invoice status;change invoice status;create purchase order;VA;0.64758456;skip;0.18849840255591055;0.056;core;False;0
+archive invoice entry form and payment report;archive invoice entry form and payment report;wait for payment;NVA;0.5483157;skip;0.17973856209150327;0.051;end;False;0
+categorise  invoices;categorise invoices;send invoice;VA;0.24162932;skip;0.14950166112956811;0.045;core;False;0
+open  invoices;open invoices;fix the process until next session;NVA;0.44391692;skip;0.16339869281045752;0.047;start;False;0
+send invoices to admin dep;send invoices to admin dep;send purchase order;VA;0.63919693;skip;0.152317880794702;0.045;core;False;0
+sort batch of paid invoices by vendor;sort batch of paid invoices by vendor;wait for payment;NVA;0.6017452;skip;0.18770226537216828;0.057;start;False;0
+sort batch of invoices per cilent;sort batch of invoices per cilent;fix the process until next session;NVA;0.33262047;skip;0.15894039735099338;0.046;core;False;0
+retrieve invoice and entry form;retrieve invoice and entry form;fix the process until next session;NVA;0.49759546;skip;0.19256756756756757;0.056;start;False;0
+forward batch of invoices to registry;forward batch of invoices to registry;wait for payment;NVA;0.51957405;skip;0.16721311475409836;0.049;end;False;0
+check new customer;check new customer;check customer;BVA;0.8621403;skip;0.1483375959079284;0.107;core;False;0
+decline order;decline order;rework purchase order;NVA;0.70710677;skip;0.0966576332429991;0.097;end;False;0
+allocate customer;allocate customer;check customer;BVA;0.6016002;skip;0.30416666666666664;0.13;core;False;0
+check customer;check customer;check customer;BVA;0.99999994;skip;0.1079393398751115;0.105;start;False;0
+create customer;create customer;create account;BVA;0.7180714;skip;0.25477707006369427;0.11;core;False;0
+check financial status;check financial status;check availability;NVA;0.57735026;skip;0.12738853503184713;0.087;core;False;0
+check current inventory level;check current inventory level;wait for payment;NVA;0.6641437;skip;0.44598337950138506;0.439;start;False;0
+send  order to  supplier;send order to supplier;send purchase order;VA;0.8991941;skip;0.09384775808133472;0.087;start;False;0
+receive invoice from supplier;receive invoice from supplier;receive invoice;VA;0.70710677;skip;0.10319917440660474;0.096;core;False;0
+glossary db ece eaa fb  record  invoice;glossary db ece eaa fb record invoice;record invoice;BVA;0.53452253;skip;0.10041407867494824;0.086;core;False;0
+record  package  slip;record package slip;record packing slip;BVA;0.81649655;skip;0.08718487394957983;0.073;core;False;0
+issue payment to supplier;issue payment to supplier;issue payment;BVA;0.70710677;skip;0.09667359667359668;0.083;end;False;0
+release reserved funds;release reserved funds;release reserved funds;BVA;0.99999994;skip;0.09100418410041841;0.08;core;False;0
+glossary bc ed  receive  packing  slip;glossary bc ed receive packing slip;receive packing slip;VA;0.7071067;skip;0.09195402298850575;0.079;core;False;0
+glossary caf dc be  check  inventory;glossary caf dc be check inventory;check inventory;BVA;0.57735026;skip;0.43776824034334766;0.087;start;False;0
+ship product;ship product;generate pricing options;BVA;0.50646377;skip;0.1103202846975089;0.11;core;False;0
+check stock availability;check stock availability;check availability;NVA;0.81649655;skip;0.12510936132983377;0.122;start;False;0
+archive order;archive order;reject purchase order;BVA;0.70710677;skip;0.10071942446043165;0.097;end;False;0
+emit invoice;emit invoice;send invoice;VA;0.70710677;skip;0.12280701754385964;0.125;core;False;0
+get shipment address;get shipment address;pick shipment;BVA;0.63776696;skip;0.11190053285968028;0.113;core;False;0
+confirm order;confirm order;create purchase order;VA;0.70710677;skip;0.1126885536823425;0.116;core;False;0
+send rfq;send rfq;send invoice;VA;0.70710677;skip;0.2716678805535324;0.279;start;False;0
+review sales quote;review sales quote;review sales quote;BVA;0.99999994;skip;0.29873772791023845;0.287;end;False;0
+check inventory level;check inventory level;check inventory;BVA;0.81649655;skip;0.4275901545506583;0.447;start;False;0
+check current inventory level;check current inventory level;wait for payment;NVA;0.6641437;skip;0.42528735632183906;0.437;start;False;0
+release raw materials to the warehouse;release raw materials to the warehouse;wait for payment;NVA;0.6794523;skip;0.35384615384615387;0.042;end;False;0
+receive order for raw materials;receive order for raw materials;receive order;BVA;0.768203;skip;0.3114754098360656;0.035;start;False;0
+glossary dde aa efdeb fe  receive products;glossary dde aa efdeb fe receive products;receive purchase order;VA;0.42960864;skip;0.37777777777777777;0.049;end;False;0
+release raw materials to the plant;release raw materials to the plant;wait for payment;NVA;0.65468305;skip;0.3252032520325203;0.038;end;False;0
+release raw materials;release raw materials;release reserved funds;BVA;0.49963376;skip;0.3025210084033613;0.036;end;False;0
+receive purchase order;receive purchase order;receive purchase order;VA;1.0;skip;0.3464566929133858;0.044;start;False;0
+receive raw material from the papermill supplier;receive raw material from the papermill supplier;wait for payment;NVA;0.6017095;skip;0.30833333333333335;0.036;start;False;0
+receive products from the idc plant;receive products from the idc plant;wait for payment;NVA;0.64692914;skip;0.3025210084033613;0.035;start;False;0
+create order;create order;create purchase order;VA;0.99999994;skip;0.38235294117647056;0.047;start;False;0
+receive raw materials;receive raw materials;receive invoice;VA;0.49963376;skip;0.3488372093023256;0.044;start;False;0
+store products;store products;review sales quote;BVA;0.6325521;skip;0.3515625;0.042;core;False;0
+create shipment plan;create shipment plan;create account;BVA;0.7637129;skip;0.07763401109057301;0.041;start;False;0
+create production order;create production order;create purchase order;VA;0.81649655;skip;0.10412926391382406;0.057;start;False;0
+release products to the customer;release products to the customer;wait for payment;NVA;0.6694875;skip;0.3515625;0.043;end;False;0
+store raw materials;store raw materials;review sales quote;BVA;0.23474194;skip;0.336;0.041;core;False;0
+release products to the idc;release products to the idc;wait for payment;NVA;0.777671;skip;0.288135593220339;0.032;end;False;0
+create pim purchasing plan;create pim purchasing plan;create purchase order;VA;0.80285144;skip;0.08103130755064457;0.042;start;False;0
+produce products;produce products;create purchase order;VA;0.4200484;skip;0.39568345323741005;0.051;core;False;0
+send order;send order;send purchase order;VA;0.99999994;skip;0.3170731707317073;0.036;core;False;0
+check  current  inventory  level;check current inventory level;wait for payment;NVA;0.6641437;skip;0.42561746122917865;0.424;start;False;0
+glossary add  check if in stock;glossary add check if in stock;wait for payment;NVA;0.64230394;skip;0.44320712694877507;0.464;start;False;0
+send confirmation;send confirmation;check request;BVA;0.8029181;skip;0.20382165605095542;0.199;start;False;0
+receive payment;receive payment;receive payment;VA;1.0;skip;0.20634920634920634;0.213;end;False;0
+send bill;send bill;send invoice;VA;0.70710677;skip;0.21630094043887146;0.222;core;False;0
+check inventory level;check inventory level;check inventory;BVA;0.81649655;skip;0.44751381215469616;0.447;start;False;0
+get prise ofers;get prise ofers;wait for payment;NVA;0.42320415;skip;0.42410714285714285;0.088;start;False;0
+glossary aa  get purchase requistions;glossary aa get purchase requistions;send purchase order;VA;0.46746597;skip;0.4425531914893617;0.094;start;False;0
+get final price;get final price;wait for payment;NVA;0.42320415;skip;0.4362745098039216;0.081;start;False;0
+order pieses;order pieses;reject purchase order;BVA;0.70710677;skip;0.4780701754385965;0.093;start;False;0
+send purchase order;send purchase order;send purchase order;VA;0.99999994;skip;0.4238095238095238;0.079;start;False;0
+confirm purchase order;confirm purchase order;send purchase order;VA;0.81649655;skip;0.5198237885462555;0.107;start;False;0
+send purchase reuistions;send purchase reuistions;send purchase order;VA;0.81649655;skip;0.40350877192982454;0.078;start;False;0
+create purchase order;create purchase order;create purchase order;VA;0.99999994;skip;0.4214876033057851;0.095;start;False;0
+order  reworked;order reworked;reject purchase order;BVA;0.70710677;add;0.14832535885167464;0.127;core;False;0
+current  inventory is  checked;current inventory is checked;wait for payment;NVA;0.53614223;skip;0.13194444444444445;0.13;start;False;0
+order  rejected;order rejected;reject purchase order;BVA;0.84966373;add;0.1417624521072797;0.128;core;False;0
+order  created;order created;fix the process until next session;NVA;0.87078655;skip;0.13020277481323372;0.108;core;False;0
+order  review;order review;review purchase order;BVA;0.99999994;add;0.12043010752688173;0.161;end;True;0
+request  money from budget;request money from budget;wait for payment;NVA;0.80840087;skip;0.046134663341645885;0.036;core;False;0
+ship order;ship order;receive order;BVA;0.70710677;skip;0.1284722222222222;0.037;end;False;0
+confirm payment;confirm payment;generate payment report;BVA;0.77051616;skip;0.08058608058608059;0.041;end;False;0
+create invoice;create invoice;send invoice;VA;0.70710677;skip;0.21875;0.034;start;False;0
+confirm order;confirm order;create purchase order;VA;0.70710677;skip;0.14625850340136054;0.041;core;False;0
+send  bill;send bill;send invoice;VA;0.70710677;skip;0.2138364779874214;0.034;core;False;0
+glossary aad abce df  determine part order;glossary aad abce df determine part order;fix the process until next session;NVA;0.53801477;skip;0.24550898203592814;0.04;core;False;0
+determine bulk order;determine bulk order;send purchase order;VA;0.60781085;skip;0.25149700598802394;0.042;core;False;0
+determine order type;determine order type;create purchase order;VA;0.57735026;skip;0.1254355400696864;0.033;start;False;0
+receive raw materials;receive raw materials;receive invoice;VA;0.49963376;skip;0.16363636363636364;0.025;core;False;0
+enter charge into the system;enter charge into the system;fix the process until next session;NVA;0.621845;skip;0.08495145631067962;0.034;start;False;0
+issue payment;issue payment;issue payment;BVA;0.99999994;skip;0.06218905472636816;0.025;core;False;0
+enter billing and shipping info;enter billing and shipping info;wait for payment;NVA;0.47059548;skip;0.2331288343558282;0.038;core;False;0
+stock inventory;stock inventory;review sales quote;BVA;0.7552221;skip;0.2023121387283237;0.035;end;False;0
+check inventory level;check inventory level;check inventory;BVA;0.81649655;skip;0.15699658703071673;0.042;start;False;0
+receive payment;receive payment;receive payment;VA;1.0;skip;0.15488215488215487;0.044;core;False;0
+produce  parts;produce parts;generate payment report;BVA;0.35519308;skip;0.18823529411764706;0.031;core;False;0
+send  invoice;send invoice;send invoice;VA;0.99999994;skip;0.10451306413301663;0.039;core;False;0
+rework request;rework request;check request;BVA;0.70710677;skip;0.05134474327628362;0.021;core;False;0
+send invoice;send invoice;send invoice;VA;0.99999994;skip;0.13745704467353953;0.038;core;False;0
+contact raw material provider;contact raw material provider;check customer;BVA;0.26501298;skip;0.15853658536585366;0.026;core;False;0
+check current inventory levels;check current inventory levels;check inventory;BVA;0.6341147;skip;0.45115257958287597;0.451;start;False;0
+send payment;send payment;send payment;VA;0.99999994;skip;0.2192513368983957;0.077;end;False;0
+receive imperfect spare parts;receive imperfect spare parts;receive packing slip;VA;0.50203633;skip;0.3855932203389831;0.083;start;False;0
+check up is spare parts are ok;check up is spare parts are ok;wait for payment;NVA;0.5658005;skip;0.20580474934036938;0.075;core;False;0
+receive bill;receive bill;receive order;BVA;0.70710677;skip;0.40725806451612906;0.087;start;False;0
+receive payment;receive payment;receive payment;VA;1.0;skip;0.3891402714932127;0.075;start;False;0
+send back wrong spare parts;send back wrong spare parts;send invoice;VA;0.4472136;skip;0.3784860557768924;0.085;end;False;0
+send bill;send bill;send invoice;VA;0.70710677;skip;0.37610619469026546;0.078;start;False;0
+send bill and delivery date;send bill and delivery date;present project;BVA;0.5116854;skip;0.43776824034334766;0.096;start;False;0
+receive bill and delivery date;receive bill and delivery date;wait for payment;NVA;0.61578125;skip;0.21614583333333334;0.081;start;False;0
+review  purchase order;review purchase order;review purchase order;BVA;0.99999994;add;0.1262493424513414;0.178;end;True;0
+create  purchase order;create purchase order;create purchase order;VA;0.99999994;skip;0.13997879109225875;0.113;core;False;0
+glossary add  check if in stock;glossary add check if in stock;wait for payment;NVA;0.64230394;skip;0.14456800684345594;0.128;start;False;0
+rework  purchase  order;rework purchase order;rework purchase order;NVA;0.99999994;add;0.18148487626031165;0.159;core;False;0
+reject  purchase order;reject purchase order;reject purchase order;BVA;0.99999994;add;0.162534435261708;0.141;core;False;0
+do not publish offer;do not publish offer;wait for payment;NVA;0.58942634;skip;0.26229508196721313;0.016;end;False;0
+invent new company offer that compares;invent new company offer that compares;wait for payment;NVA;0.59997773;skip;0.08609271523178808;0.013;core;False;0
+insurance specification assesment;insurance specification assesment;reject application;VA;0.30727914;add;0.08517350157728706;0.026;core;False;0
+hand in details of their work;hand in details of their work;wait for payment;NVA;0.87307847;skip;0.30666666666666664;0.022;core;False;0
+input the incident;input the incident;fix the process until next session;NVA;0.52588415;skip;0.22033898305084745;0.013;core;False;0
+identify financial limitations for new offering;identify financial limitations for new offering;wait for payment;NVA;0.64359224;skip;0.1262135922330097;0.013;core;False;0
+look for essential problems within company;look for essential problems within company;fix the process until next session;NVA;0.5354368;skip;0.1024390243902439;0.021;start;False;0
+analyse if offer is financially bearable;analyse if offer is financially bearable;wait for payment;NVA;0.5120187;skip;0.1038961038961039;0.016;core;False;0
+create  revise advertising plan;create revise advertising plan;create account;BVA;0.684568;skip;0.04529616724738676;0.013;core;False;0
+investigate the incident;investigate the incident;fix the process until next session;NVA;0.4595347;skip;0.3783783783783784;0.028;core;False;0
+read contract;read contract;wait for payment;NVA;0.52944624;skip;0.12179487179487179;0.019;end;False;0
+deeper look into company;deeper look into company;fix the process until next session;NVA;0.41149428;skip;0.22535211267605634;0.015;core;False;0
+asses market situation offers and feelings;asses market situation offers and feelings;wait for payment;NVA;0.533508;skip;0.07432432432432433;0.022;core;False;0
+monitor advertising outcome impact financial new customers and feelings;monitor advertising outcome impact financial new customers and feelings;wait for payment;NVA;0.4358241;skip;0.04195804195804196;0.012;end;False;0
+rework offer with new data;rework offer with new data;wait for payment;NVA;0.6946259;skip;0.18181818181818182;0.019;core;False;0
+accept insurance;accept insurance;reject purchase order;BVA;0.58694565;add;0.143646408839779;0.024;core;False;0
+search for competition offerings;search for competition offerings;wait for payment;NVA;0.67044866;skip;0.105;0.02;start;False;0
+statement of employes work;statement of employes work;perform work according role;BVA;0.74799144;skip;0.1935483870967742;0.012;core;False;0
+publish offer;publish offer;review purchase order;BVA;0.57352;skip;0.12264150943396226;0.012;end;False;0
+general statement;general statement;perform work according role;BVA;0.61988103;skip;0.06763285024154589;0.014;core;False;0
+insurance requirements response;insurance requirements response;generate payment report;BVA;0.41743153;add;0.07173913043478261;0.026;core;False;0
+refuse reported incident;refuse reported incident;perform work according role;BVA;0.37165093;skip;0.11650485436893204;0.012;start;False;0
+report the incident;report the incident;perform work according role;BVA;0.73212564;skip;0.2698412698412698;0.017;core;False;0
+prepare contract;prepare contract;prepare shipment;BVA;0.70710677;skip;0.13836477987421383;0.022;core;False;0
+create new competing offer;create new competing offer;wait for payment;NVA;0.71357834;skip;0.29411764705882354;0.02;core;False;0
+create personalised offers;create personalised offers;create purchase order;VA;0.73264426;skip;0.1559633027522936;0.017;core;False;0
+accept the reported incident;accept the reported incident;perform work according role;BVA;0.5731902;skip;0.2923076923076923;0.018;core;False;0
+add contract to database start contract fulfilment;add contract to database start contract fulfilment;wait for payment;NVA;0.69782126;skip;0.21052631578947367;0.012;end;False;0
+do not receive payment;do not receive payment;wait for payment;NVA;0.77067655;skip;0.20175438596491227;0.022;end;False;0
+insurance risk assesment;insurance risk assesment;reserve funds;BVA;0.3049494;add;0.071875;0.022;core;False;0
+analyze offer;analyze offer;wait for payment;NVA;0.5535795;skip;0.09803921568627451;0.015;core;False;0
+prepare insurance offer;prepare insurance offer;wait for payment;NVA;0.7210248;add;0.14857142857142858;0.024;core;False;0
+Further risk analysis;further risk analysis;process order;VA;0.3784267;skip;0.046153846153846156;0.009;core;False;0
+insurance requirements inquiry;insurance requirements inquiry;review purchase order;BVA;0.4191951;skip;0.028169014084507043;0.011;start;False;0
+select target audience;select target audience;wait for payment;NVA;0.48143196;skip;0.05517241379310345;0.015;core;False;0
+assess company needs;assess company needs;evaluate report;BVA;0.6486087;skip;0.07744107744107744;0.023;start;False;0
+assess customers feelings and needs;assess customers feelings and needs;wait for payment;NVA;0.57128704;skip;0.06484641638225255;0.019;core;False;0
+create offers;create offers;create purchase order;VA;0.8500002;skip;0.19642857142857142;0.022;core;False;0
+final repoort;final repoort;fix the process until next session;NVA;0.44404554;skip;0.0707070707070707;0.013;end;False;0
+check insurance offer;check insurance offer;wait for payment;NVA;0.8796048;add;0.11538461538461539;0.019;core;False;0
+target audience decisions and feelings;target audience decisions and feelings;wait for payment;NVA;0.5546316;skip;0.06164383561643835;0.018;core;False;0
+create commercials advertisments;create commercials advertisments;create purchase order;VA;0.57735026;skip;0.12380952380952381;0.013;core;False;0
+consult with employes;consult with employes;wait for payment;NVA;0.4663743;skip;0.21212121212121213;0.013;core;False;0
+incident;incident;check customer;BVA;0.0;skip;0.2459016393442623;0.015;start;False;0
+look fo preciese information;look fo preciese information;perform work according role;BVA;0.29275066;skip;0.12101910828025478;0.019;core;False;0
+deny insurance and make statement;deny insurance and make statement;wait for payment;NVA;0.67522717;skip;0.08163265306122448;0.012;end;False;0
+check payment history;check payment history;check payment;BVA;0.81649655;skip;0.20877817319098457;0.147;core;False;0
+sending decline message;sending decline message;send invoice;VA;0.6402613;skip;0.32454361054766734;0.13;end;False;0
+send declining message;send declining message;send invoice;VA;0.74715585;skip;0.16311166875784192;0.119;end;False;0
+check customer;check customer;check customer;BVA;0.99999994;skip;0.13867355727820843;0.139;start;False;0
+check customer status;check customer status;check customer;BVA;0.8621403;skip;0.1806060606060606;0.129;core;False;0
+glossary caf dc be  check  inventory level;glossary caf dc be check inventory level;wait for payment;NVA;0.5965692;skip;0.45115257958287597;0.451;start;False;0

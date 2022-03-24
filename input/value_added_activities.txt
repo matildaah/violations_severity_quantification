@@ -1,0 +1,50 @@
+send invoice -> VA
+send purchase order -> VA
+review purchase order -> BVA
+issue payment -> BVA
+receive invoice -> VA
+send reminder -> NVA
+rework purchase order -> NVA
+create purchase order -> VA
+receive payment -> VA
+receive packing slip -> VA
+record invoice -> BVA
+verify rfq -> BVA
+review sales quote -> BVA
+record packing slip -> BVA
+send order -> VA
+process payment -> VA
+send shipment -> VA
+receive order -> BVA
+join team -> NVA
+check request -> BVA
+send payment -> VA
+reserve funds -> BVA
+review claim -> BVA
+prepare packing slip -> BVA
+pick shipment -> BVA
+reject purchase order -> BVA
+receive purchase order -> VA
+perform work according role -> BVA
+check payment -> BVA
+release funds -> BVA
+wait for payment -> NVA
+cancel order -> BVA
+check process model -> NVA
+check inventory -> BVA
+generate rfq -> BVA
+generate pricing options -> BVA
+evaluate report -> BVA
+create account -> BVA
+generate payment report -> BVA
+check availability -> NVA
+check process -> NVA
+present project -> BVA
+process order -> VA
+fix the process until next session -> NVA
+prepare shipment -> BVA
+release reserved funds -> BVA
+book hotel -> VA
+reject application -> VA
+check completeness -> BVA
+check customer -> BVA

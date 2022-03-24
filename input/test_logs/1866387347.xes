@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log>
+	<trace>
+		<event>
+			<string key="concept:name" value="check stock availability" />
+			<date key="time:timestamp" value="1970-04-26T19:46:41" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:46:42" />
+		</event>
+		<event>
+			<string key="concept:name" value="get shipment address" />
+			<date key="time:timestamp" value="1970-04-26T19:46:44" />
+		</event>
+		<event>
+			<string key="concept:name" value="emit invoice" />
+			<date key="time:timestamp" value="1970-04-26T19:46:45" />
+		</event>
+		<event>
+			<string key="concept:name" value="ship product" />
+			<date key="time:timestamp" value="1970-04-26T19:46:46" />
+		</event>
+		<event>
+			<string key="concept:name" value="archive order" />
+			<date key="time:timestamp" value="1970-04-26T19:46:48" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="check stock availability" />
+			<date key="time:timestamp" value="1970-04-26T19:46:49" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:46:50" />
+		</event>
+		<event>
+			<string key="concept:name" value="get shipment address" />
+			<date key="time:timestamp" value="1970-04-26T19:46:52" />
+		</event>
+		<event>
+			<string key="concept:name" value="ship product" />
+			<date key="time:timestamp" value="1970-04-26T19:46:53" />
+		</event>
+		<event>
+			<string key="concept:name" value="emit invoice" />
+			<date key="time:timestamp" value="1970-04-26T19:46:54" />
+		</event>
+		<event>
+			<string key="concept:name" value="archive order" />
+			<date key="time:timestamp" value="1970-04-26T19:46:56" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="check stock availability" />
+			<date key="time:timestamp" value="1970-04-26T19:46:57" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:46:58" />
+		</event>
+		<event>
+			<string key="concept:name" value="emit invoice" />
+			<date key="time:timestamp" value="1970-04-26T19:47:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="get shipment address" />
+			<date key="time:timestamp" value="1970-04-26T19:47:01" />
+		</event>
+		<event>
+			<string key="concept:name" value="ship product" />
+			<date key="time:timestamp" value="1970-04-26T19:47:02" />
+		</event>
+		<event>
+			<string key="concept:name" value="archive order" />
+			<date key="time:timestamp" value="1970-04-26T19:47:04" />
+		</event>
+	</trace>
+</log>

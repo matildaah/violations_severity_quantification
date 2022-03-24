@@ -1,0 +1,46 @@
+event;preprocessed event;matched_vaa_activity;vaa_type;semantic_similarity;violation_type;violation_frequency;trace_share;activity_position;decision_activity
+Send Reminder;send reminder;send reminder;NVA;0.99999994;skip;0.0008684324793747286;0.00028308563340410475;core;True
+Declaration SUBMITTED by EMPLOYEE;submit declaration;check request;BVA;0.45870137;add;0.012129907395330639;0.013163481953290871;core;True
+Declaration REJECTED by PRE_APPROVER;reject declaration;reject application;VA;0.8417716;skip;1.0;0.010332625619249823;core;False
+Declaration REJECTED by SUPERVISOR;reject declaration;reject application;VA;0.8417716;skip;0.9826086956521739;0.015428167020523709;core;True
+Declaration REJECTED by BUDGET OWNER;reject declaration;reject application;VA;0.8417716;skip;1.0;0.005237084217975938;core;False
+Request For Payment REJECTED by PRE_APPROVER;reject request for payment;receive payment;VA;0.801708;skip;1.0;0.0018400566171266808;core;False
+Permit REJECTED by SUPERVISOR;reject permit;reject application;VA;0.75446725;skip;0.408;0.007218683651804671;core;True
+Permit FINAL_APPROVED by SUPERVISOR;approve permit;check request;BVA;0.78369105;skip;0.09111111111111111;0.08124557678697807;core;True
+Permit SAVED by EMPLOYEE;save permit;reject application;VA;0.35987112;skip;0.29411764705882354;0.0007077140835102619;start;False
+Permit REJECTED by MISSING;reject permit;reject application;VA;0.75446725;skip;0.5903614457831325;0.006935598018400566;core;True
+Request For Payment REJECTED by EMPLOYEE;reject request for payment;receive payment;VA;0.801708;skip;0.4830508474576271;0.01372965322009908;core;True
+Permit REJECTED by EMPLOYEE;reject permit;reject application;VA;0.75446725;skip;0.2492753623188406;0.011040339702760084;core;False
+Declaration REJECTED by DIRECTOR;reject declaration;reject application;VA;0.8417716;skip;1.0;0.0005661712668082095;core;False
+Declaration REJECTED by MISSING;reject declaration;reject application;VA;0.8417716;skip;1.0;0.012880396319886765;core;False
+Request For Payment REJECTED by BUDGET OWNER;reject request for payment;receive payment;VA;0.801708;skip;1.0;0.0005661712668082095;core;True
+Permit APPROVED by PRE_APPROVER;approve permit;check request;BVA;0.78369105;skip;0.964041095890411;0.07912243453644728;start;True
+Declaration APPROVED by ADMINISTRATION;approve declaration;reject application;VA;0.7503315;skip;0.0006273525721455458;0.0004246284501061571;core;True
+Permit REJECTED by ADMINISTRATION;reject permit;reject application;VA;0.75446725;skip;0.10526315789473684;0.0018400566171266808;start;True
+Permit SUBMITTED by EMPLOYEE;submit permit;check request;BVA;0.80836594;skip;0.057453005030447445;0.06072186836518047;core;True
+Request For Payment REJECTED by ADMINISTRATION;reject request for payment;receive payment;VA;0.801708;skip;0.38;0.009483368719037509;core;True
+Request For Payment APPROVED by BUDGET OWNER;approve request for payment;check request;BVA;0.73252654;add;0.11807580174927114;0.011464968152866241;core;True
+Request For Payment REJECTED by SUPERVISOR;reject request for payment;receive payment;VA;0.801708;skip;1.0;0.0024062278839348905;core;False
+Permit FOR_APPROVAL by ADMINISTRATION;approval permit;check request;BVA;0.8052631;skip;1.0;0.00014154281670205238;start;False
+Declaration FINAL_APPROVED by DIRECTOR;approve declaration;reject application;VA;0.7503315;skip;0.9585253456221198;0.028450106157112527;core;False
+Permit REJECTED by PRE_APPROVER;reject permit;reject application;VA;0.75446725;skip;0.06060606060606061;0.00028308563340410475;start;True
+Request For Payment SUBMITTED by EMPLOYEE;submit request for payment;receive invoice;VA;0.8725674;skip;0.10673076923076923;0.029582448690728947;core;True
+Permit FOR_APPROVAL by SUPERVISOR;approval permit;check request;BVA;0.8052631;skip;1.0;0.00014154281670205238;start;False
+Permit REJECTED by DIRECTOR;reject permit;reject application;VA;0.75446725;skip;1.0;0.00028308563340410475;core;True
+Request For Payment APPROVED by PRE_APPROVER;approve request for payment;check request;BVA;0.73252654;skip;0.41025641025641024;0.006086341118188252;core;True
+Permit APPROVED by ADMINISTRATION;approve permit;check request;BVA;0.78369105;skip;0.016097987751531057;0.013021939136588818;core;True
+Request For Payment APPROVED by SUPERVISOR;approve request for payment;check request;BVA;0.73252654;skip;0.918918918918919;0.004529370134465676;core;False
+Permit APPROVED by BUDGET OWNER;approve permit;check request;BVA;0.78369105;skip;0.0673828125;0.019532908704883226;core;True
+Request For Payment REJECTED by MISSING;reject request for payment;receive payment;VA;0.801708;skip;1.0;0.0009907997169143665;core;False
+Declaration APPROVED by SUPERVISOR;approve declaration;reject application;VA;0.7503315;skip;0.9592760180995475;0.028733191790516633;core;True
+Request For Payment APPROVED by ADMINISTRATION;approve request for payment;check request;BVA;0.73252654;add;0.032237673830594185;0.007218683651804671;core;True
+Permit REJECTED by BUDGET OWNER;reject permit;reject application;VA;0.75446725;skip;0.35185185185185186;0.0025477707006369425;start;True
+Request For Payment FINAL_APPROVED by SUPERVISOR;approve request for payment;check request;BVA;0.73252654;add;0.03628367234744365;0.009341825902335456;core;True
+Declaration SAVED by EMPLOYEE;save declaration;fix the process until next session;NVA;0.3282904;skip;0.9538461538461539;0.007926397735314932;core;True
+Start trip;start trip;fix the process until next session;NVA;0.6003659;skip;0.11123595505617978;0.11210191082802548;core;True
+Request For Payment SAVED by EMPLOYEE;save request for payment;receive payment;VA;0.801708;skip;0.9411764705882353;0.002264685067232838;core;False
+Permit APPROVED by SUPERVISOR;approve permit;check request;BVA;0.78369105;skip;0.7628111273792094;0.07346072186836518;core;False
+Declaration APPROVED by PRE_APPROVER;approve declaration;reject application;VA;0.7503315;skip;1.0;0.06765746638358103;core;False
+End trip;end trip;fix the process until next session;NVA;0.6497537;skip;0.08860580325548478;0.08860580325548478;core;True
+Request For Payment FINAL_APPROVED by DIRECTOR;approve request for payment;check request;BVA;0.73252654;skip;0.918918918918919;0.004529370134465676;core;False
+Permit FINAL_APPROVED by DIRECTOR;approve permit;check request;BVA;0.78369105;skip;0.762114537444934;0.07331917905166313;core;False

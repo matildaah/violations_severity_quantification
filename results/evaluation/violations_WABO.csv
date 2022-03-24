@@ -1,0 +1,22 @@
+event;preprocessed event;matched_vaa_activity;vaa_type;semantic_similarity;violation_type;violation_frequency;trace_share;activity_position;decision_activity
+T04 Determine confirmation of receipt;determine confirmation of receipt;fix the process until next session;NVA;0.36953795;add;0.09361997226074896;0.09414225941422594;core;False
+T09-1 Process or receive external advice from party 1;process external advice;perform work according role;BVA;0.60214627;skip;0.42857142857142855;0.0020920502092050207;core;True
+T07-5 Draft intern advice aspect 5;draft intern advice aspect;review claim;BVA;0.23412925;skip;0.8571428571428571;0.00906555090655509;core;True
+T09-3 Process or receive external advice from party 3;process external advice;perform work according role;BVA;0.60214627;skip;0.2;0.001394700139470014;core;True
+T09-4 Process or receive external advice from party 4;process external advice;perform work according role;BVA;0.60214627;skip;0.6;0.0020920502092050207;core;True
+T13 Adjust document X request unlicensed;adjust document request;check request;BVA;0.75007;skip;1.0;0.001394700139470014;core;False
+T20 Print report Y to stop indication;print report stop indication;evaluate report;BVA;0.5;skip;0.75;0.010460251046025104;core;False
+T07-1 Draft intern advice aspect 1;draft intern advice aspect;review claim;BVA;0.23412925;skip;0.8444444444444444;0.01603905160390516;core;True
+T12 Check document X request unlicensed;check document request;check request;BVA;0.88391316;skip;0.024390243902439025;0.000697350069735007;core;False
+T05 Print and send confirmation of receipt;print confirmation of receipt;fix the process until next session;NVA;0.40737522;add;0.09596662030598054;0.09623430962343096;core;False
+T02 Check confirmation of receipt;check confirmation of receipt;check request;BVA;0.6186118;add;0.08187919463087248;0.08507670850767085;core;False
+T03 Adjust confirmation of receipt;adjust confirmation of receipt;fix the process until next session;NVA;0.40737522;skip;0.7818181818181819;0.019525801952580194;core;False
+T10 Determine necessity to stop indication;determine necessity stop indication;evaluate report;BVA;0.33004025;add;0.10840861709520501;0.1087866108786611;core;True
+T16 Report reasons to hold request;report reasons hold request;issue payment;BVA;0.74099845;skip;0.75;0.010460251046025104;core;False
+T07-3 Draft intern advice hold for aspect 3;draft intern advice hold aspect;wait for payment;NVA;0.45414734;skip;0.75;0.0020920502092050207;core;True
+T08 Draft and send request for advice;draft request for advice;review sales quote;BVA;0.66296846;skip;0.4444444444444444;0.005578800557880056;core;True
+T17 Check report Y to stop indication;check report stop indication;check availability;NVA;0.5;skip;0.5769230769230769;0.010460251046025104;core;True
+T07-2 Draft intern advice aspect 2;draft intern advice aspect;review claim;BVA;0.23412925;skip;0.6875;0.00697350069735007;core;True
+T19 Determine report Y to stop indication;determine report stop indication;evaluate report;BVA;0.58692706;skip;0.75;0.010460251046025104;core;False
+T06 Determine necessity of stop advice;determine necessity of stop advice;fix the process until next session;NVA;0.36436746;add;0.08408796895213454;0.09065550906555091;core;True
+T07-4 Draft internal advice to hold for type 4;draft internal advice hold type;issue payment;BVA;0.6387731;skip;0.6666666666666666;0.002789400278940028;core;True

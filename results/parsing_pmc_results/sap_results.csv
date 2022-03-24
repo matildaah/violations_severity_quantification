@@ -1,0 +1,1476 @@
+account closing operations asset,1
+support investment,1
+maintenance asset,1
+shutdown asset,1
+creation group asset,1
+change asset master record,1
+change mass,1
+creation master record tangible assets,1
+change fiscal year,1
+carry out year end closing asset management,1
+preparations year end closing asset management,1
+recalculation depreciation,1
+change mass,1
+post depreciation,1
+retirement mass,1
+creation master record tangible assets,1
+process asset acquisition,1
+transfer within client,1
+index series,1
+close insurance contract,1
+post capitalization,1
+settlement asset under construction,1
+depreciation unit of production,1
+plan depreciation,1
+post depreciation,1
+process depreciation,1
+process asset acquisition,1
+acquisition subsequent,1
+release order capital investment direct capitalization,1
+process internal orders direct investment capitalization,1
+analysis program,1
+process depreciation simulation data,1
+check order update direct capitalization,1
+process asset acquisition,1
+creation master record tangible assets,1
+process measure,1
+update investment projects,1
+plan measure,1
+process variant,1
+plan appropriation request,1
+creation an alternate group of appropriation requests,1
+approval appropriation request,1
+process appropriation request,1
+calculation overhead,1
+process depreciation simulation data,1
+analysis program,1
+release project,1
+reservation funds,1
+process reservation,1
+reduction funds,1
+allocation direct activity,1
+reposting cost,1
+plan project dates relevant ps,1
+plan wbs date,1
+release budget,1
+plan measure,1
+process measure,1
+update investment orders,1
+plan appropriation request,1
+process variant,1
+process appropriation request,1
+approval appropriation request,1
+creation an alternate group of appropriation requests,1
+settlement periodic,1
+assignment settlement account,1
+analysis program,1
+process depreciation simulation data,1
+check order simple investment measures,1
+reduction funds,1
+allocation direct activity,1
+reposting cost,1
+process reservation,1
+reservation funds,1
+release order,1
+plan order,1
+calculation overhead,1
+budget order,1
+structure investment programs,1
+budget investment programs,1
+close operations,1
+maintenance asset,1
+change asset master record,1
+creation leased asset master record,1
+change mass,1
+post depreciation,1
+change mass,1
+carry out year end closing asset management,1
+preparations year end closing asset management,1
+recalculation depreciation,1
+index series,1
+close insurance contract,1
+transfer leased asset,1
+change leasing agreement,1
+post depreciation,1
+process depreciation,1
+selection benefits,1
+monitor enterprise benefits system,1
+design enterprise benefits system,1
+administration benefits plan participation,1
+implementation benefits program,1
+design benefits plans,1
+design benefits programs,1
+update employee benefits accounts,1
+transmission benefits amounts,1
+transmission benefits information,1
+termination benefits plan participation,1
+change benefits plan participation,1
+confirmation adjustment benefits participation,1
+enrollment benefits plan participation,1
+determination benefits offer employee,1
+selection benefits,1
+receipt goods,1
+verification invoice,1
+assignment purchase requisition,1
+release purchase requisition,1
+process purchase requisition,1
+release invoice,1
+settlement invoicing plan,1
+process difference,1
+process stock placement,1
+process goods receipt,1
+transmission scheduling agreements,1
+process purchase order,1
+schedule scheduling agreement delivery,1
+process shipping notifications confirmations,1
+transmission shipping notifications,1
+transmission purchase orders,1
+release purchase orders,1
+notification quality,1
+verification invoice,1
+process packing,1
+process goods issue,1
+reversal invoice,1
+process stock removal,1
+process difference,1
+process vendor quotation,1
+transmission rf qs,1
+process requests quotations,1
+release rf qs,1
+release outline agreements,1
+process scheduling agreement,1
+transmission contracts,1
+transmission scheduling agreements,1
+verification invoice,1
+withdrawal pipeline,1
+release invoice,1
+settlement consignment pipeline,1
+verification invoice,1
+receipt goods,1
+release purchase requisition,1
+process purchase requisition,1
+assignment purchase requisition,1
+release invoice,1
+process stock placement,1
+confirmation stock placement,1
+process goods receipt,1
+schedule scheduling agreement delivery,1
+release purchase orders,1
+process inbound edi,1
+process shipping notifications confirmations,1
+transmission scheduling agreements,1
+transmission purchase orders,1
+process purchase order,1
+verification invoice,1
+receipt goods,1
+settlement consignment pipeline,1
+release invoice,1
+process difference,1
+process stock placement,1
+transmission scheduling agreements,1
+process purchase order,1
+schedule scheduling agreement delivery,1
+process shipping notifications confirmations,1
+transmission purchase orders,1
+release purchase orders,1
+transmission shipping notifications,1
+provision components,1
+receipt goods,1
+verification invoice,1
+release purchase requisition,1
+process purchase requisition,1
+assignment purchase requisition,1
+release invoice,1
+process stock placement,1
+process stock removal,1
+process difference,1
+process delivery,1
+process goods issue,1
+release purchase orders,1
+transmission shipping notifications,1
+process shipping notifications confirmations,1
+schedule scheduling agreement delivery,1
+transmission scheduling agreements,1
+transmission purchase orders,1
+process purchase order,1
+post inventory differences,1
+printout physical inventory document,1
+definition sample,1
+preparation cycle counting phys inv,1
+process sample,1
+analysis physical inventory,1
+specification cycle counting phys inv,1
+clear differences inventory management,1
+start inventory recount,1
+print inventory list,1
+cycle counting wm,1
+block storage type,1
+enter count results,1
+clear differences wm,1
+report shipping,1
+process phrase set,1
+process substance report,1
+process substance report generation variants,1
+process phrase,1
+process document template,1
+process injury illness log entry,1
+determine protocol proposal lists,1
+answer questionnaires,1
+process medical service,1
+assignment protocol,1
+process substance report generation variants,1
+process document template,1
+report shipping,1
+process substance report,1
+process exposure log,1
+process agent,1
+distribution dangerous goods master,1
+fill dangerous goods master,1
+process phrase,1
+process phrase set,1
+classification dangerous goods,1
+process dangerous goods basic data,1
+distribution dangerous goods master,1
+process dangerous goods master,1
+plan product cost,1
+plan sales,1
+plan profit,1
+plan profit center,1
+transfer planned sales quantities,1
+create planning proposal sales planning,1
+plan sales,1
+settlement project,1
+settlement overhead cost orders planning data,1
+plan profit,1
+valuation sales planning,1
+plan excel upload profit center,1
+analysis profit center,1
+plan profit center,1
+plan profit center assessment,1
+plan integration of profit centers,1
+copy actual costs profit center planning,1
+copy plan previous year profit center planning,1
+redefinition plan version profit center planning,1
+preparation costing,1
+mark price,1
+analysis costing,1
+plan process quantity,1
+plan statistical key figures,1
+plan formula,1
+transfer personnel costs,1
+calculation planned price,1
+plan indirect activity allocation manual entry,1
+transfer statistical key figures,1
+plan activity type,1
+plan resource,1
+plan process cost,1
+redefinition plan version,1
+settlement overhead cost orders planning data,1
+transfer scheduled activity pp co abc,1
+copy actual data,1
+plan cost distribution,1
+accrual plan cost,1
+budget order,1
+definition activity type cost center,1
+transfer depreciation interest activity independent,1
+plan reconciliation,1
+transfer scheduled activity,1
+copy plan previous year,1
+allocation template,1
+plan budget,1
+plan cost assessment,1
+transfer depreciation interest activity dependent,1
+plan indirect activity allocation indirect entry,1
+plan revaluation,1
+control period end closing sales order,1
+control period end closing order related product cost,1
+control period end closing periodic product cost,1
+distribution cost,1
+analysis cost center,1
+calculation price,1
+predistribution fixed costs,1
+allocation entry indirect activity,1
+reposting periodic,1
+target actual activity allocation,1
+analysis business process,1
+settlement overhead orders actual data,1
+settlement accrual orders,1
+assessment cost,1
+revaluation actual prices,1
+analysis overhead orders,1
+reconciliation financial accounting controlling,1
+settlement internal orders actual data,1
+distribution top down,1
+settlement project,1
+settlement sales orders,1
+allocation cost center costs profitability analysis,1
+settlement production variances,1
+allocation process costs profitability analysis,1
+assessment profit center,1
+carryforward profit center balance,1
+analysis profit center,1
+allocation follow up costs,1
+determination material price,1
+revaluation actual prices,1
+settlement sales order,1
+settlement manufacturing order,1
+revaluation actual prices,1
+calculation periodic variance,1
+summarization cost object,1
+settlement product cost collector,1
+settlement cost object hierarchy,1
+revaluation actual prices,1
+allocation profit center,1
+transfer statistical key figures,1
+reposting activity allocation,1
+allocation controlling direct activity,1
+update overhead cost order budget,1
+reservation funds,1
+reduction funds,1
+transfer time sheet data,1
+allocation cost,1
+transfer customer agreements,1
+transfer additional balance sheet items,1
+execution budget,1
+management information system funds,1
+management fiscal year change operations funds,1
+edit basic settings,1
+plan budget,1
+selection open commitment document,1
+carryforward fund balance,1
+define transfer rules,1
+carryforward budget,1
+prepare budget carryforward,1
+prepare fiscal year change operations,1
+reset commitments carried forward,1
+determine budget carryforward,1
+carryforward commitments documents,1
+match line item totals,1
+increase budget,1
+forecast of revenue,1
+fund commitment,1
+block funds,1
+transfer payment,1
+reservation funds,1
+selection payment,1
+fund precommitment,1
+edit commitment item group,1
+process budget structure,1
+copy co plan fm budget,1
+transfer budget,1
+process budget version,1
+process budget,1
+maintenance master data,1
+entry remote data,1
+translation currency,1
+consolidation investments,1
+preparations consolidation,1
+entry centralized data,1
+set consolidation rules,1
+translation decentralized currency,1
+reconciliation decentralized balance,1
+apply consolidation rules,1
+increase reduction capitalization,1
+change indirect investment,1
+transfer posting fi lc,1
+write up investment amortization,1
+consolidation subsequent,1
+step acquisition,1
+elimination ic payables receivables,1
+verification intercompany balance,1
+divestiture of a company,1
+merger company,1
+split company,1
+acquisition a company,1
+valuation lifo,1
+change material price,1
+determination lowest value,1
+valuation fifo,1
+change material price,1
+activate future material price,1
+create document extract,1
+valuation fifo,1
+comparison lowest value,1
+display single level,1
+transfer external data,1
+create base layer,1
+change group formation,1
+display pool level,1
+create document extract,1
+valuation single level,1
+check group formation,1
+identification materials,1
+execute group formation,1
+analysis lowest value market price,1
+prepare ledger,1
+maintenance table,1
+process periodic,1
+translation currency,1
+transfer data,1
+entry direct data,1
+correspondence customers,1
+clear customer down payment,1
+calculation customer account balance interest,1
+calculation interest arrears customers,1
+check bill of exchange receivable,1
+reversal bill of exchange,1
+usage bill of exchange,1
+release payment,1
+process payment advice note,1
+evaluations customer,1
+analysis customer line item,1
+analysis credit management,1
+analysis balance,1
+post internal transfer,1
+park customer document,1
+correspondence vendors,1
+payable bill of exchange,1
+analysis vendor account,1
+clear vendor down payment,1
+calculation interest arrears vendors,1
+calculation vendor account balance interest,1
+check bill of exchange payable,1
+payable bill of exchange,1
+release payment,1
+evaluations vendor account,1
+analysis balance,1
+post internal transfer,1
+park vendor document,1
+receipt invoice,1
+close operations,1
+analysis general ledger account,1
+plan general ledger,1
+park g l account document,1
+post accrual deferral,1
+post l account,1
+maintenance gr ir clearing account,1
+valuation foreign currency,1
+creation financial statement,1
+regroup receivables payables,1
+carry forward g l balances,1
+analysis balance,1
+analysis general ledger line item,1
+settlement service charge,1
+change rent,1
+process notice,1
+process lease out,1
+lease activation,1
+process offer,1
+inspection rental unit,1
+renewal lease out,1
+process application rental request,1
+assignment rental unit application,1
+order scs relevant material,1
+creation measurement document,1
+carrying out service charge settlement,1
+post external settlement result,1
+import tape,1
+creation ml tape,1
+import tape,1
+process modernization measure,1
+preparation comparative group rent adjustment,1
+generate rent adjustment data,1
+activate rent adjustment including approval,1
+adjustment advance payment flat rates,1
+process rent reduction,1
+process expert opinion,1
+post one time debit side receivables,1
+process sales settlement,1
+maintenance account,1
+movements material,1
+modification technical systems,1
+plan capacity,1
+confirmation completion,1
+archive notification,1
+process notification creation,1
+definition task,1
+print notification,1
+completion business order,1
+completion technical order,1
+settlement order,1
+archive order,1
+archive measurement document,1
+process time sheet,1
+confirmation individual time,1
+confirmation collective time,1
+forward time sheet data,1
+process measurement document,1
+confirmation overall completion,1
+evaluation capacity,1
+print order,1
+release order,1
+process order creation,1
+plan material,1
+execution order,1
+management work clearance,1
+order permit,1
+confirmation completion,1
+movements goods,1
+plan capacity,1
+process refurbishment order creation,1
+order permit,1
+plan material,1
+release order,1
+print order,1
+execution order,1
+archive order,1
+settlement order,1
+completion technical order,1
+completion business order,1
+archive measurement document,1
+confirmation overall completion,1
+process time sheet,1
+confirmation individual time,1
+forward time sheet data,1
+process measurement document,1
+confirmation collective time,1
+evaluation capacity,1
+movements material,1
+confirmation completion,1
+plan capacity,1
+modification technical systems,1
+print notification,1
+process notification creation,1
+completion business order,1
+archive order,1
+completion technical order,1
+confirmation overall completion,1
+process measurement document,1
+process time sheet,1
+archive measurement document,1
+confirmation individual time,1
+confirmation collective time,1
+forward time sheet data,1
+evaluation capacity,1
+plan material,1
+release order,1
+process order creation,1
+execution order,1
+print order,1
+order permit,1
+management work clearance,1
+modification technical systems,1
+plan maintenance,1
+confirmation completion,1
+movements material,1
+plan capacity,1
+schedule maintenance plan,1
+cost maintenance plan,1
+process maintenance call,1
+cost object,1
+archive order,1
+settlement order,1
+completion business order,1
+completion technical order,1
+confirmation collective time,1
+process measurement document,1
+confirmation individual time,1
+archive measurement document,1
+forward time sheet data,1
+process time sheet,1
+confirmation overall completion,1
+evaluation capacity,1
+process order creation,1
+management work clearance,1
+order permit,1
+release order,1
+print order,1
+plan material,1
+execution order,1
+print notification,1
+process notification creation,1
+generation worklist,1
+process service contract,1
+process service contract quotation,1
+process service contract request,1
+process mailing campaign,1
+process customer contact,1
+process service contract follow up activity,1
+cancellation service contract,1
+process billing request,1
+movements goods,1
+confirmation completion,1
+repair order,1
+management risk credit,1
+management warehouse,1
+archive notification,1
+print notification,1
+bill resource related,1
+process billing request,1
+bill fixed price,1
+process credit memo request,1
+completion business order,1
+archive order,1
+settlement order,1
+completion technical order,1
+archive measurement document,1
+confirmation individual time,1
+process time sheet,1
+process measurement document,1
+confirmation collective time,1
+confirmation overall completion,1
+forward time sheet data,1
+process delivery,1
+confirmation picking,1
+execution service order,1
+print service order,1
+plan material,1
+release service order,1
+process service quotation,1
+process repair order,1
+management warehouse,1
+confirmation completion,1
+management risk credit,1
+movements goods,1
+plan maintenance,1
+service product order,1
+cost object,1
+schedule maintenance plan,1
+cost maintenance plan,1
+process maintenance call,1
+bill fixed price,1
+process billing request,1
+bill resource related,1
+settlement order,1
+completion technical order,1
+completion business order,1
+archive order,1
+confirmation overall completion,1
+confirmation collective time,1
+process time sheet,1
+confirmation individual time,1
+forward time sheet data,1
+archive measurement document,1
+process measurement document,1
+process delivery,1
+monitor legal controls,1
+process goods issue,1
+confirmation picking,1
+plan material,1
+release service order,1
+execution service order,1
+print service order,1
+process debit memo request,1
+print notification,1
+archive notification,1
+management warehouse,1
+management risk credit,1
+process mailing campaign,1
+process spare parts request,1
+process customer contact,1
+bill fixed price,1
+process delivery,1
+process goods issue,1
+monitor legal controls,1
+confirmation picking,1
+process spare parts order,1
+process spare parts quotation,1
+print notification,1
+archive notification,1
+plan personnel change,1
+plan personnel staff,1
+monitor personnel change planning,1
+monitor personnel staff planning,1
+plan personnel change,1
+approval personnel change plan,1
+preparation personnel change planning,1
+preparation personnel staff planning,1
+approval results personnel staff planning,1
+plan personnel staff,1
+transfer employee,1
+leave employee,1
+hire employee,1
+process receipt of application,1
+selection personnel,1
+administration applicant pool,1
+monitor recruitment request,1
+negotiation work contract,1
+process application retraction,1
+issuance recruitment request,1
+advertize personnel,1
+confirmation application retraction,1
+process application retraction,1
+process work contract rejection,1
+process offer of work contract,1
+preparation hiring,1
+administration applicant pool,1
+notification rejection application,1
+notification application hold,1
+process receipt of application,1
+confirmation receipt application,1
+plan career,1
+design enterprise wide personnel development system,1
+plan individual personnel development,1
+design personnel development system,1
+implementation personnel development system,1
+monitor individual personnel development planning,1
+monitor career planning,1
+preparation individual personnel development planning,1
+plan individual personnel development,1
+preparation career planning,1
+plan career,1
+monitor personnel appraisal,1
+design enterprise personnel appraisal system,1
+performance personnel appraisal,1
+design personnel appraisal system,1
+implementation personnel appraisal system,1
+notification personnel appraisal results,1
+approval personnel appraisal,1
+performance personnel appraisal,1
+record personnel time,1
+plan personnel time,1
+provision additional personnel time specifications,1
+creation time statement,1
+administration personnel time accounts,1
+evaluation day,1
+process personnel time evaluation messages,1
+creation work schedule,1
+plan operative personnel time,1
+specification operative planned working time,1
+plan long term working time,1
+derive personnel cost assignment specifications,1
+transfer activity allocation specifications,1
+evaluation hour based day,1
+evaluation clock time based day,1
+provision required personnel time data,1
+accrual absence entitlement,1
+compensation absence entitlement,1
+transfer personnel time,1
+update personnel time accounts,1
+transfer planned personnel time specifications actual,1
+count personnel time specifications,1
+determine handling options coverage of operative personnel requirement,1
+create operative shift plan,1
+determine handling options usage of human resources,1
+calculation remuneration,1
+calculation payment amounts,1
+calculation net remuneration,1
+calculation employment tax,1
+garnishment wages,1
+determination relevant methods remuneration calculation,1
+calculation agreed remuneration,1
+calculation time dependent remuneration,1
+calculation benefit dependent remuneration,1
+calculation further benefits payroll processing,1
+calculation capital formation payments,1
+calculation leave remuneration,1
+simulation configuration,1
+process document,1
+process characteristic,1
+process variant condition,1
+process variant table,1
+process inspection plan,1
+process configuration profile,1
+edit classes,1
+process production resource tool,1
+process graphical product structure,1
+process material master,1
+process document structure,1
+process routing,1
+maintenance object dependency,1
+process variant function,1
+process order bom,1
+process material variant,1
+process material bom,1
+search document,1
+search material,1
+find object,1
+design bom material master processing,1
+design bom material bom processing,1
+design product,1
+plan material requirements,1
+plan long term,1
+management demand,1
+schedule master production,1
+transfer results,1
+plan flexible,1
+plan material requirements,1
+evaluation material requirements planning,1
+plan overall material requirements,1
+scheduling interactive master production,1
+evaluation master production scheduling,1
+process planning scenario,1
+transfer activity type requirement,1
+transfer external procurement data,1
+evaluation long term planning,1
+transfer stock requirement data,1
+run drp distribution resource planning,1
+deployment plant,1
+deployment material,1
+plan flexible,1
+management demand,1
+transfer results,1
+plan material requirements,1
+plan material requirements,1
+evaluation material requirements planning,1
+plan overall material requirements,1
+schedule master production,1
+plan material requirements,1
+evaluation master production scheduling,1
+scheduling interactive master production,1
+plan material requirements,1
+evaluation material requirements planning,1
+plan overall material requirements,1
+release project,1
+allocation budget,1
+structure project,1
+plan shift,1
+release budget,1
+schedule project,1
+creation production order,1
+plan capacity requirements,1
+execution production order,1
+conversion planned order,1
+create processing production order,1
+printout production order,1
+release production order,1
+confirmation production order,1
+process goods receipts,1
+execution production order,1
+evaluation capacity,1
+replenishment external procurement standard purchase order source list,1
+replenishment house production production order,1
+trigger replenishment kanban signal,1
+execution production order,1
+release production order,1
+management process,1
+process order,1
+execution process order,1
+plan capacity requirements,1
+print process order,1
+release process order,1
+conversion planned order,1
+archiving deletion process order,1
+archive order record,1
+archive batch record,1
+transfer control recipe,1
+process pi sheet,1
+creation control recipe,1
+confirmation process order,1
+execution process order,1
+process gr,1
+evaluation capacity,1
+process master production schedule,1
+stag material,1
+backflush rem,1
+process pull list,1
+process sales order,1
+process customer quotation,1
+process customer inquiry,1
+send pdm objects,1
+navigation cross system product structure,1
+distribution document,1
+send pdm objects,1
+distribution dependency,1
+distribution table structure,1
+distribution characteristics,1
+distribution function,1
+change number distribution,1
+distribution class,1
+distribution configuration profile,1
+distribution table contents,1
+distribution classification,1
+distribution document structure,1
+distribution plant assignment,1
+distribution material variant,1
+distribution material master,1
+distribution material bom,1
+distribution dependency net,1
+distribution order bom,1
+initiation internal project,1
+process customer inquiry,1
+process customer quotation,1
+prepare business case project,1
+approval project,1
+archive project,1
+completion project,1
+preparation project closing,1
+settlement final,1
+analysis final results,1
+creation final invoice,1
+delete archiving,1
+review archived data,1
+set deletion flag,1
+delete without archiving,1
+documentation project closing,1
+set project closed status,1
+process sales order,1
+report project results,1
+process production,1
+analysis project progress,1
+forecast remaining work,1
+analysis milestone trend,1
+forecast cost,1
+forecast dates,1
+reposting periodic,1
+calculation earned value,1
+allocation process cost,1
+cost overhead,1
+calculation interest,1
+analysis results,1
+track status,1
+comparison object,1
+process offline object,1
+process configuration folder,1
+upload objects,1
+download objects,1
+transfer object,1
+invoice billing plans,1
+bill resource related,1
+process billing request,1
+process recipient,1
+process recipient list,1
+monitor distribution,1
+distribution document,1
+process goods issue,1
+process purchase order,1
+process purchase requisitions projects,1
+clear customer down payment,1
+clear vendor down payment,1
+transfer time recorded,1
+creation time sheet,1
+confirmation activity,1
+allocation activity,1
+approval time sheet,1
+release budget,1
+update budget,1
+plan revenue,1
+plan cash flow,1
+plan capacities,1
+plan cost,1
+plan statistical key figures,1
+plan date,1
+cost planned overhead,1
+settlement plan,1
+allocation planned process cost,1
+plan results analysis,1
+upload objects,1
+download objects,1
+transfer object,1
+track status,1
+process configuration folder,1
+process offline object,1
+comparison object,1
+assignment material,1
+plan material requirements,1
+evaluation cash flow,1
+plan payment,1
+plan subcontracted services,1
+plan external activity,1
+level capacity,1
+evaluation capacity,1
+plan shift,1
+schedule overall network,1
+schedule project,1
+plan wbs date,1
+plan easy cost,1
+change mgmt w engineering change request order ecr eco,1
+change mgmt engineering change request order ecr eco,1
+analysis change,1
+process eng change request order,1
+process change message,1
+plan project,1
+order specific trigger,1
+change overview,1
+process graphical product structure,1
+process change master record,1
+process functional location bom,1
+process equipment,1
+process material serial number,1
+process functional location,1
+process equipment bom,1
+search reference project,1
+description product idea,1
+analysis competition,1
+search similar part,1
+specification technical detail,1
+specification functions,1
+specification product,1
+track status,1
+upload objects,1
+process offline object,1
+download objects,1
+comparison object,1
+process configuration folder,1
+transfer object,1
+process final invoice,1
+analysis final results,1
+set project closed status,1
+documentation project closing,1
+settlement final,1
+analysis project progress,1
+confirmation activity,1
+update schedule,1
+process graphical product structure,1
+process material bom,1
+edit classes,1
+process characteristic,1
+process document,1
+process material master,1
+process inspection plan,1
+process routing,1
+process document structure,1
+process wbs bom,1
+process order bom,1
+process production resource tool,1
+process certificate receipt,1
+edit qm documents,1
+evaluation vendor,1
+process quality info record,1
+archive notification,1
+creation inspection lot,1
+record defects,1
+record results,1
+plan maintenance,1
+process maintenance call,1
+schedule maintenance plan,1
+creation inspection lot,1
+record results,1
+record defects,1
+completion order,1
+settlement order,1
+confirmation overall completion,1
+release maintenance order,1
+execution order,1
+confirmation overall completion,1
+execution order,1
+release maintenance order,1
+process maintenance order creation,1
+completion order,1
+settlement order,1
+creation certificate,1
+archive notification,1
+creation a quality certificate,1
+edit recipient of quality certificate,1
+record defects,1
+creation inspection lot,1
+record results,1
+inspection during production,1
+record defects,1
+record results,1
+creation inspection lot,1
+archive notification,1
+record results,1
+creation inspection lot,1
+record defects,1
+approval travel request,1
+approval trip facts,1
+process transaction,1
+close operations,1
+process stock transactions,1
+process netting,1
+perform posting,1
+process payment request,1
+release posting,1
+analysis status,1
+process planned items,1
+create planned items,1
+process planned items,1
+analysis status,1
+check deposit transaction,1
+postprocessing bank statement,1
+process payment advice,1
+post incoming payment,1
+create payment advice,1
+compare value dates,1
+compare payment advices,1
+process contract,1
+process inquiry,1
+process disbursement,1
+approval loan,1
+process offer,1
+check credit standing,1
+process application,1
+generate rollover offer,1
+determine rollover conditions,1
+process transaction,1
+close operations,1
+exercize option,1
+process netting,1
+expiration option,1
+terminate options,1
+process options,1
+valuation key date,1
+release posting,1
+perform posting,1
+process transaction,1
+adjustment interest rate,1
+close operations,1
+process otc interest rate instrument swap,1
+execution order,1
+process otc interest rate instrument cap floor,1
+process otc interest rate instrument fra,1
+process netting,1
+process interest rate adjustment,1
+create manually,1
+create automatically,1
+release posting,1
+perform posting,1
+process payment request,1
+close operations,1
+process transaction,1
+settlement premature,1
+execution order,1
+process fixing,1
+process fixing,1
+spot forward exchange transaction,1
+process forex swap,1
+expiration order,1
+process netting,1
+valuation key date,1
+process payment request,1
+perform posting,1
+release posting,1
+close operations,1
+process standard currency options,1
+terminate currency option,1
+process netting,1
+exercize currency option,1
+expiration currency option,1
+valuation key date,1
+perform posting,1
+process payment request,1
+release posting,1
+terminate currency option,1
+process knock out,1
+exercize currency option,1
+expiration currency option,1
+process knock,1
+process exotic currency option,1
+process netting,1
+close operations,1
+process transaction,1
+process netting,1
+process cash flow,1
+valuation key date,1
+deferral accrual,1
+process payment request,1
+perform posting,1
+release posting,1
+process transaction,1
+close operations,1
+process netting,1
+process fixed term deposit,1
+valuation key date,1
+deferral accrual,1
+process payment request,1
+release posting,1
+perform posting,1
+process transaction,1
+close operations,1
+process netting,1
+process commercial paper,1
+deferral accrual,1
+valuation key date,1
+process payment request,1
+release posting,1
+perform posting,1
+process deposit notice,1
+give notice deposit notice,1
+process netting,1
+update cash flow,1
+valuation key date,1
+deferral accrual,1
+release posting,1
+process payment request,1
+perform posting,1
+plan profit,1
+plan product cost,1
+plan profit center,1
+plan production,1
+plan sales,1
+plan sales,1
+transfer planned sales quantities,1
+create planning proposal sales planning,1
+plan profit,1
+valuation sales planning,1
+settlement project,1
+settlement overhead cost orders planning data,1
+creation proposal profit planning,1
+plan profit center,1
+integration profit center planning,1
+redefinition plan version profit center planning,1
+plan excel upload profit center,1
+analysis profit center,1
+copy actual costs profit center planning,1
+copy plan previous year profit center planning,1
+preparation costing,1
+mark price,1
+analysis costing,1
+plan revaluation,1
+plan indirect activity allocation manual entry,1
+plan budget,1
+transfer depreciation interest activity independent,1
+transfer scheduled activity,1
+plan cost assessment,1
+plan resource,1
+plan statistical key figures,1
+settlement overhead cost orders planning data,1
+redefinition plan version,1
+plan process quantity,1
+plan reconciliation,1
+copy plan previous year,1
+plan formula,1
+plan cost distribution,1
+copy actual data,1
+plan imputed costs,1
+plan indirect activity allocation indirect entry,1
+transfer statistical key figures,1
+plan process cost,1
+transfer personnel costs,1
+transfer scheduled activity pp co abc,1
+allocation template,1
+transfer depreciation interest activity dependent,1
+budget order,1
+plan activity type,1
+definition activity type cost center,1
+calculation planned price,1
+transfer results,1
+evaluation long term planning,1
+evaluation material requirements planning,1
+management demand,1
+process planned indep reqmts term planning,1
+evaluation master production scheduling,1
+transfer data,1
+model data,1
+field groups,1
+calculate key figures,1
+integration preparatory work,1
+definition cons chart accounts cons chart accounts hierarchy,1
+definition custom characteristics,1
+create dimensions,1
+definition data monitor,1
+definition consolidation units,1
+definition consolidation groups,1
+definition breakdown categories,1
+definition ledgers,1
+definition subitem categories,1
+create versions,1
+definition consolidation monitor,1
+definition subitems,1
+preparation consolidation group changes,1
+rollup consolidation monitor,1
+validation of consolidated data,1
+elimination iu profit loss transferred assets,1
+consolidation investments,1
+rollup consolidation groups,1
+translation currency,1
+preparation consolidation group changes data monitor,1
+consolidation apportionment,1
+carried forward consolidation balance,1
+administration authorizations,1
+copy dimensions,1
+set translation,1
+delete transaction data,1
+transport transaction data,1
+transport customizing settings,1
+preparations sending system consolidation type specific,1
+preparations sender system related consolidation types,1
+preparations consolidation system,1
+transfer data,1
+plan business,1
+model data,1
+create distribution key,1
+maintain calculation formulas basic key figures,1
+create planning layout,1
+change revaluation factor,1
+maintain forecast profiles,1
+maintain planner profiles,1
+maintain weighting group,1
+field groups,1
+calculate key figures,1
+inquiry customer,1
+process sales activity,1
+process promotion,1
+print communication,1
+control legal,1
+process preference,1
+process import code numbers,1
+process foreign trade basic data,1
+process commodity code,1
+compression vendor declaration,1
+dun vendor declaration,1
+determination preference,1
+process vendor declaration,1
+process goods catalog,1
+monitor legal control regulations,1
+settlement rebate,1
+process rebate commission calculation,1
+management warehouse,1
+process credit debit memo request,1
+process returns,1
+cancellation billing document,1
+return credit memo customer complaint,1
+process difference,1
+delivery returns,1
+pickup returnable packaging,1
+empties issue returnable packaging,1
+bill returnable packaging,1
+cancellation billing document,1
+delivery returnable packaging pickup,1
+delivery returnable packaging issue,1
+process pro forma invoice,1
+cancellation billing document,1
+pick lean wm,1
+process goods issue,1
+process packing,1
+process delivery,1
+management warehouse,1
+process billing documents,1
+cancellation billing document,1
+process pro forma invoice,1
+bill intercompany,1
+process stock removal,1
+confirmation removal f storage,1
+process difference,1
+process goods issue,1
+process packing,1
+pick lean wm,1
+process delivery,1
+management risk credit,1
+process backorder,1
+management warehouse,1
+issue consignment,1
+fill consignment,1
+pickup consignment,1
+process billing documents,1
+process pro forma invoice,1
+cancellation billing document,1
+process difference,1
+process stock removal,1
+process putaway,1
+process packing,1
+delivery consignment issue,1
+pick lean wm,1
+delivery consignment fill,1
+delivery consignment pickup,1
+cost sales document,1
+receipt goods,1
+management risk credit,1
+process third party sales order,1
+process customer quotation,1
+process billing documents,1
+cancellation billing document,1
+process invoice list,1
+process pro forma invoice,1
+release invoice,1
+transmission scheduling agreements,1
+transmission purchase orders,1
+transmission shipping notifications,1
+release purchase orders,1
+process shipping notification confirmation,1
+schedule line schedule agreement,1
+release order,1
+process purchase order,1
+release purchase requisition,1
+assignment purchase requisition,1
+management risk credit,1
+process rush order,1
+process billing documents,1
+cancellation billing document,1
+process invoice list,1
+process pro forma invoice,1
+process delivery,1
+process packing,1
+process goods issue,1
+management risk credit,1
+management warehouse,1
+process backorder,1
+process group master contracts,1
+process value contract,1
+process quantity contract,1
+process customer scheduling agreement,1
+process invoice list,1
+process pro forma invoice,1
+process billing documents,1
+cancellation billing document,1
+process difference,1
+process stock removal,1
+process delivery,1
+process goods issue,1
+process packing,1
+cost sales document,1
+process sales order,1
+process customer quotation,1
+process order bom,1
+process backorder,1
+management risk credit,1
+management warehouse,1
+process group master contracts,1
+process value contract,1
+process quantity contract,1
+process customer scheduling agreement,1
+cancellation billing document,1
+process billing documents,1
+process pro forma invoice,1
+process invoice list,1
+confirmation removal f storage,1
+process stock removal,1
+process difference,1
+process goods issue,1
+process delivery,1
+process packing,1
+process sales order,1
+process customer quotation,1
+implementation compensation planning,1
+plan compensation,1
+check compensation planning,1
+preparation compensation planning,1
+adjustment payroll specifications,1
+delegation requirement compensation planning,1
+consolidation compensation plan,1
+delegation correction requirement compensation plan,1
+approval compensation plan,1
+plan budget,1
+monitor budget planning,1
+preparation budget planning,1
+delegation need budget planning,1
+approval budget plan,1
+delegation need correct budget plan,1
+consolidation budget plan,1
+design long term incentives program,1
+forfeiture long term incentives,1
+expiration long term incentives,1
+monitor long term incentives program,1
+exercize long term incentive rights,1
+sale long term incentives,1
+grant share long term incentive,1
+retraction long term incentives,1
+design long term incentives program,1
+implementation long term incentives program,1
+notification rejection sales order,1
+notification approval sales order,1
+notification sale long term incentives,1
+sale long term incentives,1
+retraction long term incentives,1
+forfeiture long term incentives,1
+expiration long term incentives,1
+notification rejection exercise rights,1
+check for request exercise rights,1
+notification approval exercise rights,1
+exercize long term incentive rights,1
+consolidation grant plan,1
+approval grant plan,1
+delegation need grant,1
+grant long term incentives,1
+delegation need correct grant plan,1
+determination specifications granting,1
+creation offer business event attendances,1
+process rebooking order,1
+cancellation business event attendance,1
+process replacement order,1
+process cancellation order,1
+advertize business event,1
+performance business event,1
+plan business event,1
+monitor business event,1
+determination business event requirement,1
+plan business event,1
+creation business event catalog,1
+process business event results,1
+appraisal of business event attendees,1
+appraisal business event,1
+performance business event,1
+preparation business event performance,1
+plan business event resource,1
+reservation business event resource,1

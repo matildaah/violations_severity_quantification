@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log>
+	<trace>
+		<event>
+			<string key="concept:name" value="retrieve invoice and entry form" />
+			<date key="time:timestamp" value="1970-04-26T19:46:41" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="sort batch of paid invoices by vendor" />
+			<date key="time:timestamp" value="1970-04-26T19:46:42" />
+		</event>
+		<event>
+			<string key="concept:name" value="sort batch of patch invoices by payment date per vendor" />
+			<date key="time:timestamp" value="1970-04-26T19:46:43" />
+		</event>
+		<event>
+			<string key="concept:name" value="archive invoice entry form and payment report" />
+			<date key="time:timestamp" value="1970-04-26T19:46:44" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="receive batch of invoices" />
+			<date key="time:timestamp" value="1970-04-26T19:46:45" />
+		</event>
+		<event>
+			<string key="concept:name" value="sort batch of invoices per cilent" />
+			<date key="time:timestamp" value="1970-04-26T19:46:46" />
+		</event>
+		<event>
+			<string key="concept:name" value="check invoice for data errors" />
+			<date key="time:timestamp" value="1970-04-26T19:46:47" />
+		</event>
+		<event>
+			<string key="concept:name" value="change invoice status" />
+			<date key="time:timestamp" value="1970-04-26T19:46:48" />
+		</event>
+		<event>
+			<string key="concept:name" value="forward batch of invoices to registry" />
+			<date key="time:timestamp" value="1970-04-26T19:46:49" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="open  invoices" />
+			<date key="time:timestamp" value="1970-04-26T19:46:50" />
+		</event>
+		<event>
+			<string key="concept:name" value="categorise  invoices" />
+			<date key="time:timestamp" value="1970-04-26T19:46:51" />
+		</event>
+		<event>
+			<string key="concept:name" value="send invoices to admin dep" />
+			<date key="time:timestamp" value="1970-04-26T19:46:52" />
+		</event>
+		<event>
+			<string key="concept:name" value="Invoice Registration Process" />
+			<date key="time:timestamp" value="1970-04-26T19:46:53" />
+		</event>
+		<event>
+			<string key="concept:name" value="return invoice to client" />
+			<date key="time:timestamp" value="1970-04-26T19:46:54" />
+		</event>
+	</trace>
+</log>

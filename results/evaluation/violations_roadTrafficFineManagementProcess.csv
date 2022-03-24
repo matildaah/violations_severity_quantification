@@ -1,0 +1,9 @@
+event;preprocessed event;matched_vaa_activity;vaa_type;semantic_similarity;violation_type;violation_frequency;trace_share;activity_position;decision_activity
+Payment;payment;send payment;VA;1.0;skip;0.008244813437128504;0.00428276916938219;core;True
+Add penalty;add penalty;create account;BVA;0.3085862;skip;0.008151765589782119;0.004329321008179823;end;False
+Insert Date Appeal to Prefecture;insert date appeal;issue payment;BVA;0.59042764;skip;0.0019102196752626551;5.320210148300858e-05;core;False
+Send Appeal to Prefecture;send appeal;check request;BVA;0.8316848;skip;0.0031393383240763103;8.645341490988894e-05;end;False
+Receive Result Appeal from Prefecture;receive result appeal;check request;BVA;0.68231857;skip;0.002002002002002002;1.3300525370752144e-05;core;True
+Send Fine;send fine;send invoice;VA;0.70710677;skip;9.616586688720706e-06;6.650262685376072e-06;core;True
+Appeal to Judge;appeal;check request;BVA;0.6117026;skip;0.04144144144144144;0.00015295604176364966;core;False
+Notify Result Appeal to Offender;notify result appeal;check request;BVA;0.5721941;skip;0.002232142857142857;1.3300525370752144e-05;core;False

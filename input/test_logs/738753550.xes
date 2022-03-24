@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log>
+	<trace>
+		<event>
+			<string key="concept:name" value="send bill and delivery date" />
+			<date key="time:timestamp" value="1970-04-26T19:46:41" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="receive imperfect spare parts" />
+			<date key="time:timestamp" value="1970-04-26T19:46:42" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="receive payment" />
+			<date key="time:timestamp" value="1970-04-26T19:46:43" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="send bill" />
+			<date key="time:timestamp" value="1970-04-26T19:46:44" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="receive bill" />
+			<date key="time:timestamp" value="1970-04-26T19:46:45" />
+		</event>
+		<event>
+			<string key="concept:name" value="send payment" />
+			<date key="time:timestamp" value="1970-04-26T19:46:46" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="receive bill and delivery date" />
+			<date key="time:timestamp" value="1970-04-26T19:46:47" />
+		</event>
+		<event>
+			<string key="concept:name" value="check up is spare parts are ok" />
+			<date key="time:timestamp" value="1970-04-26T19:46:48" />
+		</event>
+		<event>
+			<string key="concept:name" value="send back wrong spare parts" />
+			<date key="time:timestamp" value="1970-04-26T19:46:49" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="receive bill and delivery date" />
+			<date key="time:timestamp" value="1970-04-26T19:46:50" />
+		</event>
+		<event>
+			<string key="concept:name" value="check up is spare parts are ok" />
+			<date key="time:timestamp" value="1970-04-26T19:46:51" />
+		</event>
+		<event>
+			<string key="concept:name" value="send payment" />
+			<date key="time:timestamp" value="1970-04-26T19:46:52" />
+		</event>
+	</trace>
+</log>

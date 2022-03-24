@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log>
+	<trace>
+		<event>
+			<string key="concept:name" value="request account details" />
+			<date key="time:timestamp" value="1970-04-26T19:46:41" />
+		</event>
+		<event>
+			<string key="concept:name" value="authenticate customer" />
+			<date key="time:timestamp" value="1970-04-26T19:46:42" />
+		</event>
+		<event>
+			<string key="concept:name" value="prompt order confirmation" />
+			<date key="time:timestamp" value="1970-04-26T19:46:43" />
+		</event>
+		<event>
+			<string key="concept:name" value="debit credit card" />
+			<date key="time:timestamp" value="1970-04-26T19:46:44" />
+		</event>
+		<event>
+			<string key="concept:name" value="notify customer purchase declined" />
+			<date key="time:timestamp" value="1970-04-26T19:46:45" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="request account details" />
+			<date key="time:timestamp" value="1970-04-26T19:46:46" />
+		</event>
+		<event>
+			<string key="concept:name" value="authenticate customer" />
+			<date key="time:timestamp" value="1970-04-26T19:46:47" />
+		</event>
+		<event>
+			<string key="concept:name" value="prompt order confirmation" />
+			<date key="time:timestamp" value="1970-04-26T19:46:48" />
+		</event>
+		<event>
+			<string key="concept:name" value="subtract value from voucher allowance" />
+			<date key="time:timestamp" value="1970-04-26T19:46:49" />
+		</event>
+		<event>
+			<string key="concept:name" value="notify customer purchase declined" />
+			<date key="time:timestamp" value="1970-04-26T19:46:50" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="request account details" />
+			<date key="time:timestamp" value="1970-04-26T19:46:51" />
+		</event>
+		<event>
+			<string key="concept:name" value="authenticate customer" />
+			<date key="time:timestamp" value="1970-04-26T19:46:52" />
+		</event>
+		<event>
+			<string key="concept:name" value="prompt order confirmation" />
+			<date key="time:timestamp" value="1970-04-26T19:46:53" />
+		</event>
+		<event>
+			<string key="concept:name" value="debit credit card" />
+			<date key="time:timestamp" value="1970-04-26T19:46:54" />
+		</event>
+		<event>
+			<string key="concept:name" value="upload media file" />
+			<date key="time:timestamp" value="1970-04-26T19:46:55" />
+		</event>
+		<event>
+			<string key="concept:name" value="generate invoice" />
+			<date key="time:timestamp" value="1970-04-26T19:46:56" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="request account details" />
+			<date key="time:timestamp" value="1970-04-26T19:46:57" />
+		</event>
+		<event>
+			<string key="concept:name" value="authenticate customer" />
+			<date key="time:timestamp" value="1970-04-26T19:46:58" />
+		</event>
+		<event>
+			<string key="concept:name" value="prompt order confirmation" />
+			<date key="time:timestamp" value="1970-04-26T19:46:59" />
+		</event>
+		<event>
+			<string key="concept:name" value="subtract value from voucher allowance" />
+			<date key="time:timestamp" value="1970-04-26T19:47:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="upload media file" />
+			<date key="time:timestamp" value="1970-04-26T19:47:01" />
+		</event>
+		<event>
+			<string key="concept:name" value="generate invoice" />
+			<date key="time:timestamp" value="1970-04-26T19:47:02" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:47:03" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:47:04" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:47:05" />
+		</event>
+		<event>
+			<string key="concept:name" value="select buy" />
+			<date key="time:timestamp" value="1970-04-26T19:47:06" />
+		</event>
+		<event>
+			<string key="concept:name" value="Create account" />
+			<date key="time:timestamp" value="1970-04-26T19:47:07" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:47:08" />
+		</event>
+		<event>
+			<string key="concept:name" value="download media file" />
+			<date key="time:timestamp" value="1970-04-26T19:47:09" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:47:10" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:47:11" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:47:12" />
+		</event>
+		<event>
+			<string key="concept:name" value="select buy" />
+			<date key="time:timestamp" value="1970-04-26T19:47:13" />
+		</event>
+		<event>
+			<string key="concept:name" value="Create account" />
+			<date key="time:timestamp" value="1970-04-26T19:47:14" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:47:15" />
+		</event>
+		<event>
+			<string key="concept:name" value="receive notification purchase declined" />
+			<date key="time:timestamp" value="1970-04-26T19:47:16" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:47:17" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:47:18" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:47:19" />
+		</event>
+		<event>
+			<string key="concept:name" value="redeem gift voucher allowance credit" />
+			<date key="time:timestamp" value="1970-04-26T19:47:20" />
+		</event>
+		<event>
+			<string key="concept:name" value="Create account" />
+			<date key="time:timestamp" value="1970-04-26T19:47:21" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:47:22" />
+		</event>
+		<event>
+			<string key="concept:name" value="download media file" />
+			<date key="time:timestamp" value="1970-04-26T19:47:23" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:47:24" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:47:25" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:47:26" />
+		</event>
+		<event>
+			<string key="concept:name" value="redeem gift voucher allowance credit" />
+			<date key="time:timestamp" value="1970-04-26T19:47:27" />
+		</event>
+		<event>
+			<string key="concept:name" value="Create account" />
+			<date key="time:timestamp" value="1970-04-26T19:47:28" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:47:29" />
+		</event>
+		<event>
+			<string key="concept:name" value="receive notification purchase declined" />
+			<date key="time:timestamp" value="1970-04-26T19:47:30" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:47:31" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:47:32" />
+		</event>
+		<event>
+			<string key="concept:name" value="launch or download i tunes app" />
+			<date key="time:timestamp" value="1970-04-26T19:47:33" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:47:34" />
+		</event>
+		<event>
+			<string key="concept:name" value="select buy" />
+			<date key="time:timestamp" value="1970-04-26T19:47:35" />
+		</event>
+		<event>
+			<string key="concept:name" value="Create account" />
+			<date key="time:timestamp" value="1970-04-26T19:47:36" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:47:37" />
+		</event>
+		<event>
+			<string key="concept:name" value="download media file" />
+			<date key="time:timestamp" value="1970-04-26T19:47:38" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:47:39" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:47:40" />
+		</event>
+		<event>
+			<string key="concept:name" value="launch or download i tunes app" />
+			<date key="time:timestamp" value="1970-04-26T19:47:41" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:47:42" />
+		</event>
+		<event>
+			<string key="concept:name" value="select buy" />
+			<date key="time:timestamp" value="1970-04-26T19:47:43" />
+		</event>
+		<event>
+			<string key="concept:name" value="Create account" />
+			<date key="time:timestamp" value="1970-04-26T19:47:44" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:47:45" />
+		</event>
+		<event>
+			<string key="concept:name" value="receive notification purchase declined" />
+			<date key="time:timestamp" value="1970-04-26T19:47:46" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:47:47" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:47:48" />
+		</event>
+		<event>
+			<string key="concept:name" value="launch or download i tunes app" />
+			<date key="time:timestamp" value="1970-04-26T19:47:49" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:47:50" />
+		</event>
+		<event>
+			<string key="concept:name" value="redeem gift voucher allowance credit" />
+			<date key="time:timestamp" value="1970-04-26T19:47:51" />
+		</event>
+		<event>
+			<string key="concept:name" value="Create account" />
+			<date key="time:timestamp" value="1970-04-26T19:47:52" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:47:53" />
+		</event>
+		<event>
+			<string key="concept:name" value="download media file" />
+			<date key="time:timestamp" value="1970-04-26T19:47:54" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:47:55" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:47:56" />
+		</event>
+		<event>
+			<string key="concept:name" value="launch or download i tunes app" />
+			<date key="time:timestamp" value="1970-04-26T19:47:57" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:47:58" />
+		</event>
+		<event>
+			<string key="concept:name" value="redeem gift voucher allowance credit" />
+			<date key="time:timestamp" value="1970-04-26T19:47:59" />
+		</event>
+		<event>
+			<string key="concept:name" value="Create account" />
+			<date key="time:timestamp" value="1970-04-26T19:48:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:48:01" />
+		</event>
+		<event>
+			<string key="concept:name" value="receive notification purchase declined" />
+			<date key="time:timestamp" value="1970-04-26T19:48:02" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:48:03" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:48:04" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:48:05" />
+		</event>
+		<event>
+			<string key="concept:name" value="select buy" />
+			<date key="time:timestamp" value="1970-04-26T19:48:06" />
+		</event>
+		<event>
+			<string key="concept:name" value="sign in" />
+			<date key="time:timestamp" value="1970-04-26T19:48:07" />
+		</event>
+		<event>
+			<string key="concept:name" value="Retrieve Password " />
+			<date key="time:timestamp" value="1970-04-26T19:48:08" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:48:09" />
+		</event>
+		<event>
+			<string key="concept:name" value="download media file" />
+			<date key="time:timestamp" value="1970-04-26T19:48:10" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:48:11" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:48:12" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:48:13" />
+		</event>
+		<event>
+			<string key="concept:name" value="select buy" />
+			<date key="time:timestamp" value="1970-04-26T19:48:14" />
+		</event>
+		<event>
+			<string key="concept:name" value="sign in" />
+			<date key="time:timestamp" value="1970-04-26T19:48:15" />
+		</event>
+		<event>
+			<string key="concept:name" value="Retrieve Password " />
+			<date key="time:timestamp" value="1970-04-26T19:48:16" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:48:17" />
+		</event>
+		<event>
+			<string key="concept:name" value="receive notification purchase declined" />
+			<date key="time:timestamp" value="1970-04-26T19:48:18" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:48:19" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:48:20" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:48:21" />
+		</event>
+		<event>
+			<string key="concept:name" value="select buy" />
+			<date key="time:timestamp" value="1970-04-26T19:48:22" />
+		</event>
+		<event>
+			<string key="concept:name" value="sign in" />
+			<date key="time:timestamp" value="1970-04-26T19:48:23" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:48:24" />
+		</event>
+		<event>
+			<string key="concept:name" value="download media file" />
+			<date key="time:timestamp" value="1970-04-26T19:48:25" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:48:26" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:48:27" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:48:28" />
+		</event>
+		<event>
+			<string key="concept:name" value="select buy" />
+			<date key="time:timestamp" value="1970-04-26T19:48:29" />
+		</event>
+		<event>
+			<string key="concept:name" value="sign in" />
+			<date key="time:timestamp" value="1970-04-26T19:48:30" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:48:31" />
+		</event>
+		<event>
+			<string key="concept:name" value="receive notification purchase declined" />
+			<date key="time:timestamp" value="1970-04-26T19:48:32" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:48:33" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:48:34" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:48:35" />
+		</event>
+		<event>
+			<string key="concept:name" value="redeem gift voucher allowance credit" />
+			<date key="time:timestamp" value="1970-04-26T19:48:36" />
+		</event>
+		<event>
+			<string key="concept:name" value="sign in" />
+			<date key="time:timestamp" value="1970-04-26T19:48:37" />
+		</event>
+		<event>
+			<string key="concept:name" value="Retrieve Password " />
+			<date key="time:timestamp" value="1970-04-26T19:48:38" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:48:39" />
+		</event>
+		<event>
+			<string key="concept:name" value="download media file" />
+			<date key="time:timestamp" value="1970-04-26T19:48:40" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:48:41" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:48:42" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:48:43" />
+		</event>
+		<event>
+			<string key="concept:name" value="redeem gift voucher allowance credit" />
+			<date key="time:timestamp" value="1970-04-26T19:48:44" />
+		</event>
+		<event>
+			<string key="concept:name" value="sign in" />
+			<date key="time:timestamp" value="1970-04-26T19:48:45" />
+		</event>
+		<event>
+			<string key="concept:name" value="Retrieve Password " />
+			<date key="time:timestamp" value="1970-04-26T19:48:46" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:48:47" />
+		</event>
+		<event>
+			<string key="concept:name" value="receive notification purchase declined" />
+			<date key="time:timestamp" value="1970-04-26T19:48:48" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:48:49" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:48:50" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:48:51" />
+		</event>
+		<event>
+			<string key="concept:name" value="redeem gift voucher allowance credit" />
+			<date key="time:timestamp" value="1970-04-26T19:48:52" />
+		</event>
+		<event>
+			<string key="concept:name" value="sign in" />
+			<date key="time:timestamp" value="1970-04-26T19:48:53" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:48:54" />
+		</event>
+		<event>
+			<string key="concept:name" value="download media file" />
+			<date key="time:timestamp" value="1970-04-26T19:48:55" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:48:56" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:48:57" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:48:58" />
+		</event>
+		<event>
+			<string key="concept:name" value="redeem gift voucher allowance credit" />
+			<date key="time:timestamp" value="1970-04-26T19:48:59" />
+		</event>
+		<event>
+			<string key="concept:name" value="sign in" />
+			<date key="time:timestamp" value="1970-04-26T19:49:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:49:01" />
+		</event>
+		<event>
+			<string key="concept:name" value="receive notification purchase declined" />
+			<date key="time:timestamp" value="1970-04-26T19:49:02" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:49:03" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:49:04" />
+		</event>
+		<event>
+			<string key="concept:name" value="launch or download i tunes app" />
+			<date key="time:timestamp" value="1970-04-26T19:49:05" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:49:06" />
+		</event>
+		<event>
+			<string key="concept:name" value="select buy" />
+			<date key="time:timestamp" value="1970-04-26T19:49:07" />
+		</event>
+		<event>
+			<string key="concept:name" value="sign in" />
+			<date key="time:timestamp" value="1970-04-26T19:49:08" />
+		</event>
+		<event>
+			<string key="concept:name" value="Retrieve Password " />
+			<date key="time:timestamp" value="1970-04-26T19:49:09" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:49:10" />
+		</event>
+		<event>
+			<string key="concept:name" value="download media file" />
+			<date key="time:timestamp" value="1970-04-26T19:49:11" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:49:12" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:49:13" />
+		</event>
+		<event>
+			<string key="concept:name" value="launch or download i tunes app" />
+			<date key="time:timestamp" value="1970-04-26T19:49:14" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:49:15" />
+		</event>
+		<event>
+			<string key="concept:name" value="select buy" />
+			<date key="time:timestamp" value="1970-04-26T19:49:16" />
+		</event>
+		<event>
+			<string key="concept:name" value="sign in" />
+			<date key="time:timestamp" value="1970-04-26T19:49:17" />
+		</event>
+		<event>
+			<string key="concept:name" value="Retrieve Password " />
+			<date key="time:timestamp" value="1970-04-26T19:49:18" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:49:19" />
+		</event>
+		<event>
+			<string key="concept:name" value="receive notification purchase declined" />
+			<date key="time:timestamp" value="1970-04-26T19:49:20" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:49:21" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:49:22" />
+		</event>
+		<event>
+			<string key="concept:name" value="launch or download i tunes app" />
+			<date key="time:timestamp" value="1970-04-26T19:49:23" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:49:24" />
+		</event>
+		<event>
+			<string key="concept:name" value="select buy" />
+			<date key="time:timestamp" value="1970-04-26T19:49:25" />
+		</event>
+		<event>
+			<string key="concept:name" value="sign in" />
+			<date key="time:timestamp" value="1970-04-26T19:49:26" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:49:27" />
+		</event>
+		<event>
+			<string key="concept:name" value="download media file" />
+			<date key="time:timestamp" value="1970-04-26T19:49:28" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:49:29" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:49:30" />
+		</event>
+		<event>
+			<string key="concept:name" value="launch or download i tunes app" />
+			<date key="time:timestamp" value="1970-04-26T19:49:31" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:49:32" />
+		</event>
+		<event>
+			<string key="concept:name" value="select buy" />
+			<date key="time:timestamp" value="1970-04-26T19:49:33" />
+		</event>
+		<event>
+			<string key="concept:name" value="sign in" />
+			<date key="time:timestamp" value="1970-04-26T19:49:34" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:49:35" />
+		</event>
+		<event>
+			<string key="concept:name" value="receive notification purchase declined" />
+			<date key="time:timestamp" value="1970-04-26T19:49:36" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:49:37" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:49:38" />
+		</event>
+		<event>
+			<string key="concept:name" value="launch or download i tunes app" />
+			<date key="time:timestamp" value="1970-04-26T19:49:39" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:49:40" />
+		</event>
+		<event>
+			<string key="concept:name" value="redeem gift voucher allowance credit" />
+			<date key="time:timestamp" value="1970-04-26T19:49:41" />
+		</event>
+		<event>
+			<string key="concept:name" value="sign in" />
+			<date key="time:timestamp" value="1970-04-26T19:49:42" />
+		</event>
+		<event>
+			<string key="concept:name" value="Retrieve Password " />
+			<date key="time:timestamp" value="1970-04-26T19:49:43" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:49:44" />
+		</event>
+		<event>
+			<string key="concept:name" value="download media file" />
+			<date key="time:timestamp" value="1970-04-26T19:49:45" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:49:46" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:49:47" />
+		</event>
+		<event>
+			<string key="concept:name" value="launch or download i tunes app" />
+			<date key="time:timestamp" value="1970-04-26T19:49:48" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:49:49" />
+		</event>
+		<event>
+			<string key="concept:name" value="redeem gift voucher allowance credit" />
+			<date key="time:timestamp" value="1970-04-26T19:49:50" />
+		</event>
+		<event>
+			<string key="concept:name" value="sign in" />
+			<date key="time:timestamp" value="1970-04-26T19:49:51" />
+		</event>
+		<event>
+			<string key="concept:name" value="Retrieve Password " />
+			<date key="time:timestamp" value="1970-04-26T19:49:52" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:49:53" />
+		</event>
+		<event>
+			<string key="concept:name" value="receive notification purchase declined" />
+			<date key="time:timestamp" value="1970-04-26T19:49:54" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:49:55" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:49:56" />
+		</event>
+		<event>
+			<string key="concept:name" value="launch or download i tunes app" />
+			<date key="time:timestamp" value="1970-04-26T19:49:57" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:49:58" />
+		</event>
+		<event>
+			<string key="concept:name" value="redeem gift voucher allowance credit" />
+			<date key="time:timestamp" value="1970-04-26T19:49:59" />
+		</event>
+		<event>
+			<string key="concept:name" value="sign in" />
+			<date key="time:timestamp" value="1970-04-26T19:50:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:50:01" />
+		</event>
+		<event>
+			<string key="concept:name" value="download media file" />
+			<date key="time:timestamp" value="1970-04-26T19:50:02" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="Find media file" />
+			<date key="time:timestamp" value="1970-04-26T19:50:03" />
+		</event>
+		<event>
+			<string key="concept:name" value="select view in i tunes" />
+			<date key="time:timestamp" value="1970-04-26T19:50:04" />
+		</event>
+		<event>
+			<string key="concept:name" value="launch or download i tunes app" />
+			<date key="time:timestamp" value="1970-04-26T19:50:05" />
+		</event>
+		<event>
+			<string key="concept:name" value="preview sample" />
+			<date key="time:timestamp" value="1970-04-26T19:50:06" />
+		</event>
+		<event>
+			<string key="concept:name" value="redeem gift voucher allowance credit" />
+			<date key="time:timestamp" value="1970-04-26T19:50:07" />
+		</event>
+		<event>
+			<string key="concept:name" value="sign in" />
+			<date key="time:timestamp" value="1970-04-26T19:50:08" />
+		</event>
+		<event>
+			<string key="concept:name" value="confirm order" />
+			<date key="time:timestamp" value="1970-04-26T19:50:09" />
+		</event>
+		<event>
+			<string key="concept:name" value="receive notification purchase declined" />
+			<date key="time:timestamp" value="1970-04-26T19:50:10" />
+		</event>
+	</trace>
+</log>

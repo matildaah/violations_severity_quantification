@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log>
+	<trace>
+		<event>
+			<string key="concept:name" value="test resolution" />
+			<date key="time:timestamp" value="1970-04-26T19:46:41" />
+		</event>
+		<event>
+			<string key="concept:name" value="mail results" />
+			<date key="time:timestamp" value="1970-04-26T19:46:42" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="register request" />
+			<date key="time:timestamp" value="1970-04-26T19:46:43" />
+		</event>
+		<event>
+			<string key="concept:name" value="prioritize request" />
+			<date key="time:timestamp" value="1970-04-26T19:46:44" />
+		</event>
+		<event>
+			<string key="concept:name" value="check request" />
+			<date key="time:timestamp" value="1970-04-26T19:46:45" />
+		</event>
+		<event>
+			<string key="concept:name" value="resolve request" />
+			<date key="time:timestamp" value="1970-04-26T19:46:46" />
+		</event>
+		<event>
+			<string key="concept:name" value="send resolution to client" />
+			<date key="time:timestamp" value="1970-04-26T19:46:47" />
+		</event>
+		<event>
+			<string key="concept:name" value="mark request closed" />
+			<date key="time:timestamp" value="1970-04-26T19:46:48" />
+		</event>
+	</trace>
+</log>

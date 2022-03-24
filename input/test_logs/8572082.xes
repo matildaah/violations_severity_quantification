@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log>
+	<trace>
+		<event>
+			<string key="concept:name" value="search for competition offerings" />
+			<date key="time:timestamp" value="1970-04-26T19:46:43" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="refuse reported incident" />
+			<date key="time:timestamp" value="1970-04-26T19:46:44" />
+		</event>
+		<event>
+			<string key="concept:name" value="do not receive payment" />
+			<date key="time:timestamp" value="1970-04-26T19:46:45" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="look for essential problems within company" />
+			<date key="time:timestamp" value="1970-04-26T19:46:46" />
+		</event>
+		<event>
+			<string key="concept:name" value="final repoort" />
+			<date key="time:timestamp" value="1970-04-26T19:46:47" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="search for competition offerings" />
+			<date key="time:timestamp" value="1970-04-26T19:46:48" />
+		</event>
+		<event>
+			<string key="concept:name" value="analyze offer" />
+			<date key="time:timestamp" value="1970-04-26T19:46:49" />
+		</event>
+		<event>
+			<string key="concept:name" value="invent new company offer that compares" />
+			<date key="time:timestamp" value="1970-04-26T19:46:50" />
+		</event>
+		<event>
+			<string key="concept:name" value="analyse if offer is financially bearable" />
+			<date key="time:timestamp" value="1970-04-26T19:46:51" />
+		</event>
+		<event>
+			<string key="concept:name" value="create new competing offer" />
+			<date key="time:timestamp" value="1970-04-26T19:46:52" />
+		</event>
+		<event>
+			<string key="concept:name" value="publish offer" />
+			<date key="time:timestamp" value="1970-04-26T19:46:53" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="look for essential problems within company" />
+			<date key="time:timestamp" value="1970-04-26T19:46:54" />
+		</event>
+		<event>
+			<string key="concept:name" value="look fo preciese information" />
+			<date key="time:timestamp" value="1970-04-26T19:46:55" />
+		</event>
+		<event>
+			<string key="concept:name" value="general statement" />
+			<date key="time:timestamp" value="1970-04-26T19:46:56" />
+		</event>
+		<event>
+			<string key="concept:name" value="final repoort" />
+			<date key="time:timestamp" value="1970-04-26T19:46:58" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="insurance requirements inquiry" />
+			<date key="time:timestamp" value="1970-04-26T19:46:59" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance requirements response" />
+			<date key="time:timestamp" value="1970-04-26T19:47:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance specification assesment" />
+			<date key="time:timestamp" value="1970-04-26T19:47:01" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance risk assesment" />
+			<date key="time:timestamp" value="1970-04-26T19:47:02" />
+		</event>
+		<event>
+			<string key="concept:name" value="Further risk analysis" />
+			<date key="time:timestamp" value="1970-04-26T19:47:03" />
+		</event>
+		<event>
+			<string key="concept:name" value="deny insurance and make statement" />
+			<date key="time:timestamp" value="1970-04-26T19:47:04" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="assess company needs" />
+			<date key="time:timestamp" value="1970-04-26T19:47:05" />
+		</event>
+		<event>
+			<string key="concept:name" value="asses market situation offers and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:47:07" />
+		</event>
+		<event>
+			<string key="concept:name" value="assess customers feelings and needs" />
+			<date key="time:timestamp" value="1970-04-26T19:47:08" />
+		</event>
+		<event>
+			<string key="concept:name" value="create  revise advertising plan" />
+			<date key="time:timestamp" value="1970-04-26T19:47:10" />
+		</event>
+		<event>
+			<string key="concept:name" value="select target audience" />
+			<date key="time:timestamp" value="1970-04-26T19:47:11" />
+		</event>
+		<event>
+			<string key="concept:name" value="create personalised offers" />
+			<date key="time:timestamp" value="1970-04-26T19:47:12" />
+		</event>
+		<event>
+			<string key="concept:name" value="target audience decisions and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:47:13" />
+		</event>
+		<event>
+			<string key="concept:name" value="monitor advertising outcome impact financial new customers and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:47:14" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="assess company needs" />
+			<date key="time:timestamp" value="1970-04-26T19:47:15" />
+		</event>
+		<event>
+			<string key="concept:name" value="asses market situation offers and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:47:17" />
+		</event>
+		<event>
+			<string key="concept:name" value="assess customers feelings and needs" />
+			<date key="time:timestamp" value="1970-04-26T19:47:18" />
+		</event>
+		<event>
+			<string key="concept:name" value="create  revise advertising plan" />
+			<date key="time:timestamp" value="1970-04-26T19:47:20" />
+		</event>
+		<event>
+			<string key="concept:name" value="select target audience" />
+			<date key="time:timestamp" value="1970-04-26T19:47:21" />
+		</event>
+		<event>
+			<string key="concept:name" value="create commercials advertisments" />
+			<date key="time:timestamp" value="1970-04-26T19:47:22" />
+		</event>
+		<event>
+			<string key="concept:name" value="target audience decisions and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:47:23" />
+		</event>
+		<event>
+			<string key="concept:name" value="monitor advertising outcome impact financial new customers and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:47:24" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="assess company needs" />
+			<date key="time:timestamp" value="1970-04-26T19:47:25" />
+		</event>
+		<event>
+			<string key="concept:name" value="asses market situation offers and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:47:27" />
+		</event>
+		<event>
+			<string key="concept:name" value="assess customers feelings and needs" />
+			<date key="time:timestamp" value="1970-04-26T19:47:28" />
+		</event>
+		<event>
+			<string key="concept:name" value="create  revise advertising plan" />
+			<date key="time:timestamp" value="1970-04-26T19:47:30" />
+		</event>
+		<event>
+			<string key="concept:name" value="select target audience" />
+			<date key="time:timestamp" value="1970-04-26T19:47:31" />
+		</event>
+		<event>
+			<string key="concept:name" value="create offers" />
+			<date key="time:timestamp" value="1970-04-26T19:47:32" />
+		</event>
+		<event>
+			<string key="concept:name" value="target audience decisions and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:47:33" />
+		</event>
+		<event>
+			<string key="concept:name" value="monitor advertising outcome impact financial new customers and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:47:34" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="assess company needs" />
+			<date key="time:timestamp" value="1970-04-26T19:47:35" />
+		</event>
+		<event>
+			<string key="concept:name" value="assess customers feelings and needs" />
+			<date key="time:timestamp" value="1970-04-26T19:47:37" />
+		</event>
+		<event>
+			<string key="concept:name" value="asses market situation offers and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:47:38" />
+		</event>
+		<event>
+			<string key="concept:name" value="create  revise advertising plan" />
+			<date key="time:timestamp" value="1970-04-26T19:47:40" />
+		</event>
+		<event>
+			<string key="concept:name" value="select target audience" />
+			<date key="time:timestamp" value="1970-04-26T19:47:41" />
+		</event>
+		<event>
+			<string key="concept:name" value="create personalised offers" />
+			<date key="time:timestamp" value="1970-04-26T19:47:42" />
+		</event>
+		<event>
+			<string key="concept:name" value="target audience decisions and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:47:43" />
+		</event>
+		<event>
+			<string key="concept:name" value="monitor advertising outcome impact financial new customers and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:47:44" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="assess company needs" />
+			<date key="time:timestamp" value="1970-04-26T19:47:45" />
+		</event>
+		<event>
+			<string key="concept:name" value="assess customers feelings and needs" />
+			<date key="time:timestamp" value="1970-04-26T19:47:47" />
+		</event>
+		<event>
+			<string key="concept:name" value="asses market situation offers and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:47:48" />
+		</event>
+		<event>
+			<string key="concept:name" value="create  revise advertising plan" />
+			<date key="time:timestamp" value="1970-04-26T19:47:50" />
+		</event>
+		<event>
+			<string key="concept:name" value="select target audience" />
+			<date key="time:timestamp" value="1970-04-26T19:47:51" />
+		</event>
+		<event>
+			<string key="concept:name" value="create commercials advertisments" />
+			<date key="time:timestamp" value="1970-04-26T19:47:52" />
+		</event>
+		<event>
+			<string key="concept:name" value="target audience decisions and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:47:53" />
+		</event>
+		<event>
+			<string key="concept:name" value="monitor advertising outcome impact financial new customers and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:47:54" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="assess company needs" />
+			<date key="time:timestamp" value="1970-04-26T19:47:55" />
+		</event>
+		<event>
+			<string key="concept:name" value="assess customers feelings and needs" />
+			<date key="time:timestamp" value="1970-04-26T19:47:57" />
+		</event>
+		<event>
+			<string key="concept:name" value="asses market situation offers and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:47:58" />
+		</event>
+		<event>
+			<string key="concept:name" value="create  revise advertising plan" />
+			<date key="time:timestamp" value="1970-04-26T19:48:00" />
+		</event>
+		<event>
+			<string key="concept:name" value="select target audience" />
+			<date key="time:timestamp" value="1970-04-26T19:48:01" />
+		</event>
+		<event>
+			<string key="concept:name" value="create offers" />
+			<date key="time:timestamp" value="1970-04-26T19:48:02" />
+		</event>
+		<event>
+			<string key="concept:name" value="target audience decisions and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:48:03" />
+		</event>
+		<event>
+			<string key="concept:name" value="monitor advertising outcome impact financial new customers and feelings" />
+			<date key="time:timestamp" value="1970-04-26T19:48:04" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="search for competition offerings" />
+			<date key="time:timestamp" value="1970-04-26T19:48:05" />
+		</event>
+		<event>
+			<string key="concept:name" value="analyze offer" />
+			<date key="time:timestamp" value="1970-04-26T19:48:06" />
+		</event>
+		<event>
+			<string key="concept:name" value="invent new company offer that compares" />
+			<date key="time:timestamp" value="1970-04-26T19:48:07" />
+		</event>
+		<event>
+			<string key="concept:name" value="analyse if offer is financially bearable" />
+			<date key="time:timestamp" value="1970-04-26T19:48:08" />
+		</event>
+		<event>
+			<string key="concept:name" value="identify financial limitations for new offering" />
+			<date key="time:timestamp" value="1970-04-26T19:48:09" />
+		</event>
+		<event>
+			<string key="concept:name" value="rework offer with new data" />
+			<date key="time:timestamp" value="1970-04-26T19:48:10" />
+		</event>
+		<event>
+			<string key="concept:name" value="do not publish offer" />
+			<date key="time:timestamp" value="1970-04-26T19:48:11" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="incident" />
+			<date key="time:timestamp" value="1970-04-26T19:48:12" />
+		</event>
+		<event>
+			<string key="concept:name" value="report the incident" />
+			<date key="time:timestamp" value="1970-04-26T19:48:13" />
+		</event>
+		<event>
+			<string key="concept:name" value="accept the reported incident" />
+			<date key="time:timestamp" value="1970-04-26T19:48:14" />
+		</event>
+		<event>
+			<string key="concept:name" value="input the incident" />
+			<date key="time:timestamp" value="1970-04-26T19:48:15" />
+		</event>
+		<event>
+			<string key="concept:name" value="investigate the incident" />
+			<date key="time:timestamp" value="1970-04-26T19:48:16" />
+		</event>
+		<event>
+			<string key="concept:name" value="refuse reported incident" />
+			<date key="time:timestamp" value="1970-04-26T19:48:18" />
+		</event>
+		<event>
+			<string key="concept:name" value="do not receive payment" />
+			<date key="time:timestamp" value="1970-04-26T19:48:19" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="search for competition offerings" />
+			<date key="time:timestamp" value="1970-04-26T19:48:20" />
+		</event>
+		<event>
+			<string key="concept:name" value="analyze offer" />
+			<date key="time:timestamp" value="1970-04-26T19:48:21" />
+		</event>
+		<event>
+			<string key="concept:name" value="invent new company offer that compares" />
+			<date key="time:timestamp" value="1970-04-26T19:48:22" />
+		</event>
+		<event>
+			<string key="concept:name" value="analyse if offer is financially bearable" />
+			<date key="time:timestamp" value="1970-04-26T19:48:23" />
+		</event>
+		<event>
+			<string key="concept:name" value="identify financial limitations for new offering" />
+			<date key="time:timestamp" value="1970-04-26T19:48:24" />
+		</event>
+		<event>
+			<string key="concept:name" value="rework offer with new data" />
+			<date key="time:timestamp" value="1970-04-26T19:48:25" />
+		</event>
+		<event>
+			<string key="concept:name" value="publish offer" />
+			<date key="time:timestamp" value="1970-04-26T19:48:26" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="look for essential problems within company" />
+			<date key="time:timestamp" value="1970-04-26T19:48:27" />
+		</event>
+		<event>
+			<string key="concept:name" value="look fo preciese information" />
+			<date key="time:timestamp" value="1970-04-26T19:48:28" />
+		</event>
+		<event>
+			<string key="concept:name" value="general statement" />
+			<date key="time:timestamp" value="1970-04-26T19:48:29" />
+		</event>
+		<event>
+			<string key="concept:name" value="deeper look into company" />
+			<date key="time:timestamp" value="1970-04-26T19:48:31" />
+		</event>
+		<event>
+			<string key="concept:name" value="general statement" />
+			<date key="time:timestamp" value="1970-04-26T19:48:32" />
+		</event>
+		<event>
+			<string key="concept:name" value="final repoort" />
+			<date key="time:timestamp" value="1970-04-26T19:48:34" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="look for essential problems within company" />
+			<date key="time:timestamp" value="1970-04-26T19:48:35" />
+		</event>
+		<event>
+			<string key="concept:name" value="look fo preciese information" />
+			<date key="time:timestamp" value="1970-04-26T19:48:36" />
+		</event>
+		<event>
+			<string key="concept:name" value="consult with employes" />
+			<date key="time:timestamp" value="1970-04-26T19:48:37" />
+		</event>
+		<event>
+			<string key="concept:name" value="hand in details of their work" />
+			<date key="time:timestamp" value="1970-04-26T19:48:38" />
+		</event>
+		<event>
+			<string key="concept:name" value="statement of employes work" />
+			<date key="time:timestamp" value="1970-04-26T19:48:40" />
+		</event>
+		<event>
+			<string key="concept:name" value="general statement" />
+			<date key="time:timestamp" value="1970-04-26T19:48:41" />
+		</event>
+		<event>
+			<string key="concept:name" value="final repoort" />
+			<date key="time:timestamp" value="1970-04-26T19:48:43" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="insurance requirements inquiry" />
+			<date key="time:timestamp" value="1970-04-26T19:48:44" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance requirements response" />
+			<date key="time:timestamp" value="1970-04-26T19:48:45" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance requirements inquiry" />
+			<date key="time:timestamp" value="1970-04-26T19:48:46" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance requirements response" />
+			<date key="time:timestamp" value="1970-04-26T19:48:47" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance specification assesment" />
+			<date key="time:timestamp" value="1970-04-26T19:48:48" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance risk assesment" />
+			<date key="time:timestamp" value="1970-04-26T19:48:49" />
+		</event>
+		<event>
+			<string key="concept:name" value="Further risk analysis" />
+			<date key="time:timestamp" value="1970-04-26T19:48:50" />
+		</event>
+		<event>
+			<string key="concept:name" value="deny insurance and make statement" />
+			<date key="time:timestamp" value="1970-04-26T19:48:51" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="insurance requirements inquiry" />
+			<date key="time:timestamp" value="1970-04-26T19:48:52" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance requirements response" />
+			<date key="time:timestamp" value="1970-04-26T19:48:53" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance specification assesment" />
+			<date key="time:timestamp" value="1970-04-26T19:48:54" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance risk assesment" />
+			<date key="time:timestamp" value="1970-04-26T19:48:55" />
+		</event>
+		<event>
+			<string key="concept:name" value="accept insurance" />
+			<date key="time:timestamp" value="1970-04-26T19:48:56" />
+		</event>
+		<event>
+			<string key="concept:name" value="prepare insurance offer" />
+			<date key="time:timestamp" value="1970-04-26T19:48:57" />
+		</event>
+		<event>
+			<string key="concept:name" value="check insurance offer" />
+			<date key="time:timestamp" value="1970-04-26T19:48:58" />
+		</event>
+		<event>
+			<string key="concept:name" value="prepare contract" />
+			<date key="time:timestamp" value="1970-04-26T19:48:59" />
+		</event>
+		<event>
+			<string key="concept:name" value="read contract" />
+			<date key="time:timestamp" value="1970-04-26T19:49:00" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="insurance requirements inquiry" />
+			<date key="time:timestamp" value="1970-04-26T19:49:01" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance requirements response" />
+			<date key="time:timestamp" value="1970-04-26T19:49:02" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance specification assesment" />
+			<date key="time:timestamp" value="1970-04-26T19:49:03" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance risk assesment" />
+			<date key="time:timestamp" value="1970-04-26T19:49:04" />
+		</event>
+		<event>
+			<string key="concept:name" value="accept insurance" />
+			<date key="time:timestamp" value="1970-04-26T19:49:05" />
+		</event>
+		<event>
+			<string key="concept:name" value="prepare insurance offer" />
+			<date key="time:timestamp" value="1970-04-26T19:49:06" />
+		</event>
+		<event>
+			<string key="concept:name" value="check insurance offer" />
+			<date key="time:timestamp" value="1970-04-26T19:49:07" />
+		</event>
+		<event>
+			<string key="concept:name" value="prepare contract" />
+			<date key="time:timestamp" value="1970-04-26T19:49:08" />
+		</event>
+		<event>
+			<string key="concept:name" value="read contract" />
+			<date key="time:timestamp" value="1970-04-26T19:49:09" />
+		</event>
+		<event>
+			<string key="concept:name" value="add contract to database start contract fulfilment" />
+			<date key="time:timestamp" value="1970-04-26T19:49:10" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="insurance requirements inquiry" />
+			<date key="time:timestamp" value="1970-04-26T19:49:11" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance requirements response" />
+			<date key="time:timestamp" value="1970-04-26T19:49:12" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance specification assesment" />
+			<date key="time:timestamp" value="1970-04-26T19:49:13" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance risk assesment" />
+			<date key="time:timestamp" value="1970-04-26T19:49:14" />
+		</event>
+		<event>
+			<string key="concept:name" value="Further risk analysis" />
+			<date key="time:timestamp" value="1970-04-26T19:49:15" />
+		</event>
+		<event>
+			<string key="concept:name" value="accept insurance" />
+			<date key="time:timestamp" value="1970-04-26T19:49:16" />
+		</event>
+		<event>
+			<string key="concept:name" value="prepare insurance offer" />
+			<date key="time:timestamp" value="1970-04-26T19:49:17" />
+		</event>
+		<event>
+			<string key="concept:name" value="check insurance offer" />
+			<date key="time:timestamp" value="1970-04-26T19:49:18" />
+		</event>
+		<event>
+			<string key="concept:name" value="prepare contract" />
+			<date key="time:timestamp" value="1970-04-26T19:49:19" />
+		</event>
+		<event>
+			<string key="concept:name" value="read contract" />
+			<date key="time:timestamp" value="1970-04-26T19:49:20" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="insurance requirements inquiry" />
+			<date key="time:timestamp" value="1970-04-26T19:49:21" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance requirements response" />
+			<date key="time:timestamp" value="1970-04-26T19:49:22" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance requirements inquiry" />
+			<date key="time:timestamp" value="1970-04-26T19:49:23" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance requirements response" />
+			<date key="time:timestamp" value="1970-04-26T19:49:24" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance requirements inquiry" />
+			<date key="time:timestamp" value="1970-04-26T19:49:25" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance requirements response" />
+			<date key="time:timestamp" value="1970-04-26T19:49:26" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance specification assesment" />
+			<date key="time:timestamp" value="1970-04-26T19:49:27" />
+		</event>
+		<event>
+			<string key="concept:name" value="insurance risk assesment" />
+			<date key="time:timestamp" value="1970-04-26T19:49:28" />
+		</event>
+		<event>
+			<string key="concept:name" value="Further risk analysis" />
+			<date key="time:timestamp" value="1970-04-26T19:49:29" />
+		</event>
+		<event>
+			<string key="concept:name" value="deny insurance and make statement" />
+			<date key="time:timestamp" value="1970-04-26T19:49:30" />
+		</event>
+	</trace>
+</log>

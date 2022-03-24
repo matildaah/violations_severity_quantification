@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log>
+	<trace>
+		<event>
+			<string key="concept:name" value="send eu agriculture legislations" />
+			<date key="time:timestamp" value="1970-04-26T19:46:41" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="receive reminder" />
+			<date key="time:timestamp" value="1970-04-26T19:46:42" />
+		</event>
+		<event>
+			<string key="concept:name" value="pay invoice" />
+			<date key="time:timestamp" value="1970-04-26T19:46:43" />
+		</event>
+	</trace>
+	<trace>
+		<event>
+			<string key="concept:name" value="receive invoice" />
+			<date key="time:timestamp" value="1970-04-26T19:46:44" />
+		</event>
+		<event>
+			<string key="concept:name" value="pay invoice" />
+			<date key="time:timestamp" value="1970-04-26T19:46:45" />
+		</event>
+	</trace>
+</log>
