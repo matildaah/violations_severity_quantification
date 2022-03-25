@@ -19,5 +19,6 @@ Output files with extracted violations and respective severity quantification de
 
 To create another violations dataset from the BPMAI collection, create first the noisy logs for the selected process models by running <code>log_simulation.py</code>. Then run <code>violations_training.py</code>, by computing first the conformance checking alignments *compute_alignments_training()* and then extracting the respective conformance violations *extract_conf_violations()*.
 
+Please note, that due to the large size, the current <code> input/process_model_collections.zip</code> is uploaded partially. To get the full (preprocessed) version of the used process model collections, access them [here](https://drive.google.com/file/d/1WN-bLxCAQS0zUAWmq7kUcCIvKQb29I-1/view?usp=sharing).
 
 
