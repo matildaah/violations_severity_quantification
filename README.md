@@ -1,4 +1,4 @@
-# Quantifying the Severity of Conformance Violations.
+# Quantifying the Severity of Conformance Violations
 
 This repository contains the implementation, evaluations and input data used to formalize the approach described in the master thesis: Quantifying the Severity of Conformance Violations.
 
